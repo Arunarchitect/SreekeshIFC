@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" id="root" version="1.1" width="1189.0mm" height="841.0mm" viewBox="0 0 1189.0 841.0" sodipodi:docname="A00 - Section.svg" inkscape:version="1.3 (0e150ed6c4, 2023-07-21)">
+  <defs id="defs5"/>
+  <sodipodi:namedview id="namedview5" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="0.25829122" inkscape:cx="2247.4631" inkscape:cy="1589.2913" inkscape:window-width="1920" inkscape:window-height="1017" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="root"/>
+  <g data-type="titleblock" id="g1">
+    <image xlink:href="titleblocks%5CA0.svg" x="0" y="0" width="1189.0" height="841.0" id="image1"/>
+  </g>
+  <g data-type="drawing" data-id="269951" data-drawing="1XnjsWoCvEPhril6aVjrg_" id="g3" transform="translate(224.33496,16.389769)">
+    <image data-type="foreground" xlink:href="..\drawings\SECTION.svg" x="30" y="30" width="640" height="299.84119" id="image2"/>
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="30" y="334.84119" width="50.222462" height="10" id="image3"/>
+  </g>
+  <g data-type="drawing" data-id="270003" data-drawing="2ykKcWFw92uxzYKlKbZPPp" id="g5" transform="translate(224.33496,331.23096)">
+    <image data-type="foreground" xlink:href="..\drawings\FRONT.svg" x="30" y="30" width="700" height="299.8548" id="image4"/>
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="30" y="334.8548" width="50.222462" height="10" id="image5"/>
+  </g>
+</svg>
