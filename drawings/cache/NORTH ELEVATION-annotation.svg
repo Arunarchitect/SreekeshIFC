@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:ifc="http://www.ifcopenshell.org/ns" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" data-scale="1:50" height="399.6613039796782mm" id="root" version="1.1" viewBox="0 0 800.0 399.6613039796782" width="800.0mm">
+  <defs/>
+  <path class="GlobalId-1Z8vGweuPF$OAxs2y8Fh0o IfcAnnotation PredefinedType-SECTIONLEVEL" d="M 727.727294921875 209.7030792236328 L -99.0185546875 209.7030792236328"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(727.727294921875, 206.2030792236328) rotate(0.0)">
+    <tspan class="SECTIONLEVEL" dy="-1em" x="0" y="0">GF Lintel</tspan>
+    <tspan class="SECTIONLEVEL" dy="0em" x="0" y="0">RL +2.100</tspan>
+  </text>
+  <path class="GlobalId-238yy3SJ51nPgvRM$JsweZ IfcAnnotation PredefinedType-SECTIONLEVEL" d="M 727.727294921875 137.7030792236328 L -99.0185546875 137.7030792236328"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(727.727294921875, 134.2030792236328) rotate(0.0)">
+    <tspan class="SECTIONLEVEL" dy="-1em" x="0" y="0">FFtop</tspan>
+    <tspan class="SECTIONLEVEL" dy="0em" x="0" y="0">RL +5.700</tspan>
+  </text>
+  <path class="GlobalId-0qZ1nDmcX6peVFzXm$dM5s IfcAnnotation PredefinedType-SECTIONLEVEL" d="M 727.727294921875 251.70306396484375 L -99.0185546875 251.70306396484375"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(727.727294921875, 248.20306396484375) rotate(0.0)">
+    <tspan class="SECTIONLEVEL" dy="-1em" x="0" y="0">00</tspan>
+    <tspan class="SECTIONLEVEL" dy="0em" x="0" y="0">RL -0.000</tspan>
+  </text>
+  <use transform="rotate(90.00000250447816, 79.05876159667969, 242.70306396484375)" x="79.05876159667969" xlink:href="#elevation-arrow" y="242.70306396484375"/>
+  <use x="79.05876159667969" xlink:href="#elevation-tag" y="242.70306396484375"/>
+  <text class="ELEVATION" dominant-baseline="middle" text-anchor="middle" x="79.05876159667969" y="240.20306396484375">-</text>
+  <text class="ELEVATION" dominant-baseline="middle" text-anchor="middle" x="79.05876159667969" y="245.20306396484375">-</text>
+  <use transform="rotate(-90.00000250447816, 775.6957397460938, 242.70306396484375)" x="775.6957397460938" xlink:href="#elevation-arrow" y="242.70306396484375"/>
+  <use x="775.6957397460938" xlink:href="#elevation-tag" y="242.70306396484375"/>
+  <text class="ELEVATION" dominant-baseline="middle" text-anchor="middle" x="775.6957397460938" y="240.20306396484375">-</text>
+  <text class="ELEVATION" dominant-baseline="middle" text-anchor="middle" x="775.6957397460938" y="245.20306396484375">-</text>
+  <path class="GlobalId-3UQdProI99XQdU2DzCWfw_ IfcAnnotation PredefinedType-SECTIONLEVEL" d="M 727.727294921875 242.7030792236328 L -99.0185546875 242.7030792236328"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(727.727294921875, 239.2030792236328) rotate(0.0)">
+    <tspan class="SECTIONLEVEL" dy="-1em" x="0" y="0">GF</tspan>
+    <tspan class="SECTIONLEVEL" dy="0em" x="0" y="0">RL +0.450</tspan>
+  </text>
+  <path class="GlobalId-1y0nVRufD7Ag0eKiP8Z2dE IfcAnnotation PredefinedType-SECTIONLEVEL" d="M 727.727294921875 191.70306396484375 L -99.0185546875 191.70306396484375"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(727.727294921875, 188.20306396484375) rotate(0.0)">
+    <tspan class="SECTIONLEVEL" dy="0em" x="0" y="0">RL +3.000</tspan>
+  </text>
+  <path class="GlobalId-396znDuIr71RCPh1Hje2hf IfcAnnotation PredefinedType-SECTIONLEVEL" d="M 727.727294921875 182.7030792236328 L -99.0185546875 182.7030792236328"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(727.727294921875, 179.2030792236328) rotate(0.0)">
+    <tspan class="SECTIONLEVEL" dy="-1em" x="0" y="0">FF</tspan>
+    <tspan class="SECTIONLEVEL" dy="0em" x="0" y="0">RL +3.450</tspan>
+  </text>
+</svg>

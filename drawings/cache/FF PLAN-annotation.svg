@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:ifc="http://www.ifcopenshell.org/ns" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" data-scale="1:50" height="560.0mm" id="root" version="1.1" viewBox="0 0 560.0 560.0" width="560.0mm">
+  <defs/>
+  <line class="GlobalId-3bwMgFRxj3oPPyxGo2AGM_ IfcAnnotation PredefinedType-DIMENSION" x1="34.62238311767578" x2="48.42243194580078" y1="541.0753173828125" y2="541.0753173828125"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="middle" transform="translate(41.52240753173828, 540.0753173828125) rotate(0.0)">
+    <tspan class="DIMENSION" dy="0em" x="0" y="0">0.690</tspan>
+  </text>
+  <line class="GlobalId-2FsZyoh0DC8u8h$brbMi2S IfcAnnotation PredefinedType-DIMENSION" x1="417.44158935546875" x2="439.355224609375" y1="203.28598022460938" y2="203.28598022460938"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="middle" transform="translate(428.3984069824219, 202.28598022460938) rotate(0.0)">
+    <tspan class="DIMENSION" dy="0em" x="0" y="0">1.096</tspan>
+  </text>
+  <line class="GlobalId-2FsZyoh0DC8u8h$brbMi2S IfcAnnotation PredefinedType-DIMENSION" x1="332.84197998046875" x2="412.84161376953125" y1="203.28598022460938" y2="203.28598022460938"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="middle" transform="translate(372.841796875, 202.28598022460938) rotate(0.0)">
+    <tspan class="DIMENSION" dy="0em" x="0" y="0">4.000</tspan>
+  </text>
+  <line class="GlobalId-2FsZyoh0DC8u8h$brbMi2S IfcAnnotation PredefinedType-DIMENSION" x1="346.3871765136719" x2="346.3871765136719" y1="210.82171630859375" y2="150.82171630859375"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="middle" transform="translate(345.3871765136719, 180.82171630859375) rotate(-90.00000250447816)">
+    <tspan class="DIMENSION" dy="0em" x="0" y="0">3.000</tspan>
+  </text>
+  <path class="GlobalId-2FkHICX_P1hOf1lSzYpnrR IfcAnnotation PredefinedType-PLANLEVEL" d="M 430.390380859375 222.63107299804688 L 421.4757995605469 222.63107299804688"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="end" transform="translate(430.390380859375, 221.63107299804688) rotate(-0.0)">
+    <tspan class="PLANLEVEL" dy="0em" x="0" y="0">+2.750</tspan>
+  </text>
+  <path class="GlobalId-2FkHICX_P1hOf1lSzYpnrR IfcAnnotation PredefinedType-PLANLEVEL" d="M 421.4757995605469 222.63107299804688 L 421.4757995605469 228.01272583007812"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(421.4757995605469, 221.63107299804688) rotate(90.00000250447816)">
+    <tspan class="PLANLEVEL" dy="0em" x="0" y="0">+2.750</tspan>
+  </text>
+  <use transform="rotate(90.00000250447816, -109.43260192871094, 297.35369873046875)" x="-109.43260192871094" xlink:href="#elevation-arrow" y="297.35369873046875"/>
+  <use x="-109.43260192871094" xlink:href="#elevation-tag" y="297.35369873046875"/>
+  <text class="ELEVATION" dominant-baseline="middle" text-anchor="middle" x="-109.43260192871094" y="294.85369873046875">-</text>
+  <text class="ELEVATION" dominant-baseline="middle" text-anchor="middle" x="-109.43260192871094" y="299.85369873046875">-</text>
+  <use transform="rotate(-0.0, 286.4299011230469, 580.3795776367188)" x="286.4299011230469" xlink:href="#elevation-arrow" y="580.3795776367188"/>
+  <use x="286.4299011230469" xlink:href="#elevation-tag" y="580.3795776367188"/>
+  <text class="ELEVATION" dominant-baseline="middle" text-anchor="middle" x="286.4299011230469" y="577.8795776367188">2</text>
+  <text class="ELEVATION" dominant-baseline="middle" text-anchor="middle" x="286.4299011230469" y="582.8795776367188">A00</text>
+  <use transform="rotate(180.00000500895632, 265.2817077636719, -9.307098388671875)" x="265.2817077636719" xlink:href="#elevation-arrow" y="-9.307098388671875"/>
+  <use x="265.2817077636719" xlink:href="#elevation-tag" y="-9.307098388671875"/>
+  <text class="ELEVATION" dominant-baseline="middle" text-anchor="middle" x="265.2817077636719" y="-11.807098388671875">-</text>
+  <text class="ELEVATION" dominant-baseline="middle" text-anchor="middle" x="265.2817077636719" y="-6.807098388671875">-</text>
+  <use transform="rotate(-90.00000250447816, 587.2044067382812, 222.26402282714844)" x="587.2044067382812" xlink:href="#elevation-arrow" y="222.26402282714844"/>
+  <use x="587.2044067382812" xlink:href="#elevation-tag" y="222.26402282714844"/>
+  <text class="ELEVATION" dominant-baseline="middle" text-anchor="middle" x="587.2044067382812" y="219.76402282714844">-</text>
+  <text class="ELEVATION" dominant-baseline="middle" text-anchor="middle" x="587.2044067382812" y="224.76402282714844">-</text>
+  <path class="GlobalId-0_Ke$QbD9AzgPkPFmtxHRG IfcAnnotation PredefinedType-PLANLEVEL" d="M 396.0986328125 191.23199462890625 L 408.4587097167969 191.23199462890625"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(396.0986328125, 190.23199462890625) rotate(0.0)">
+    <tspan class="PLANLEVEL" dy="0em" x="0" y="0">+3.600</tspan>
+  </text>
+  <line class="GlobalId-1Aq13iICH7gfa8L$ju6u0H IfcAnnotation PredefinedType-DIMENSION" x1="166.67486572265625" x2="180.47488403320312" y1="541.0753173828125" y2="541.0753173828125"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="middle" transform="translate(173.5748748779297, 540.0753173828125) rotate(0.0)">
+    <tspan class="DIMENSION" dy="0em" x="0" y="0">0.690</tspan>
+  </text>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(98.85360717773438, 363.8951110839844) rotate(-0.0)">
+    <tspan class="GlobalId-3Np3EZ7Sz7TgB8MfMTHve2 IfcAnnotation PredefinedType-TEXT" dy="0em" x="0" y="0">TERRACE UNDER ROOF</tspan>
+  </text>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(358.5837097167969, 228.55987548828125) rotate(-0.0)">
+    <tspan class="GlobalId-1roO$gk3H3vhiJrkafJe1v IfcAnnotation PredefinedType-TEXT" dy="0em" x="0" y="0">STAIRCASE</tspan>
+  </text>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(175.3764190673828, 218.69229125976562) rotate(-0.0)">
+    <tspan class="GlobalId-3dzUmM7sr1eRjioPYyDS0u IfcAnnotation PredefinedType-TEXT" dy="0em" x="0" y="0">OPEN </tspan>
+    <tspan class="GlobalId-3dzUmM7sr1eRjioPYyDS0u IfcAnnotation PredefinedType-TEXT" dy="1em" x="0" y="0"> TERRACE</tspan>
+  </text>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(309.74505615234375, 265.981201171875) rotate(-0.0)">
+    <tspan class="GlobalId-3SzJ1USZ58Tfda4KMFoMVf IfcAnnotation PredefinedType-TEXT" dy="0em" x="0" y="0">TERRACE UNDER ROOF</tspan>
+  </text>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(245.72447204589844, 154.61761474609375) rotate(-0.0)">
+    <tspan class="GlobalId-3DiEqVdsr6MPVpcqVjXomD IfcAnnotation PredefinedType-TEXT" dy="0em" x="0" y="0">TERRACE UNDER ROOF</tspan>
+  </text>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(354.43255615234375, 180.82171630859375) rotate(-0.0)">
+    <tspan class="GlobalId-3Tiuq426P7dg_67aVZQ_zb IfcAnnotation PredefinedType-TEXT" dy="0em" x="0" y="0">HOME THEATRE</tspan>
+  </text>
+</svg>
