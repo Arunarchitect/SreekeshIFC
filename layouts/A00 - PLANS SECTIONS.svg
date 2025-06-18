@@ -5,7 +5,7 @@
     <image ns3:href="titleblocks%5CA0.svg" x="0" y="0" width="1189.0" height="841.0" id="image1" />
   </g>
   <g data-type="drawing" data-id="356909" data-drawing="1XnjsWoCvEPhril6aVjrg_" id="g3" transform="translate(0,561.12345)">
-    <image data-type="foreground" ns3:href="..%5Cdrawings%5CSECTION.svg" x="30" y="30" width="600" height="199.88707" id="image2" />
+    <image data-type="foreground" ns3:href="..\drawings\SECTION A.svg" x="30" y="30" width="600" height="199.88707" id="image2" />
     <image data-type="view-title" ns3:href="assets%5Cview-title.svg" x="30" y="234.88707" width="50.222462" height="10" id="image3" />
   </g>
   <g data-type="drawing" data-id="356604" data-drawing="1AaGT8Rpj4ZQMv$frRBZGD" id="g5" transform="translate(0,-243.15349)">
@@ -17,7 +17,7 @@
     <image data-type="view-title" ns3:href="assets%5Cview-title.svg" x="560" y="779.88708" width="50.222462" height="10" id="image7" />
   </g>
   <g data-type="drawing" data-id="357115" data-drawing="2_EQ6_pbz8JAs3iR4lxMlk" id="g9" transform="translate(529.32645,-207.61567)">
-    <image data-type="foreground" ns3:href="..%5Cdrawings%5CEAST%20SECTION.svg" x="90.0" y="799.9070799995529" width="400.0" height="199.83" id="image8" />
+    <image data-type="foreground" ns3:href="..\drawings\SECTION B.svg" x="90.0" y="799.9070799995529" width="400.0" height="199.83" id="image8" />
     <image data-type="view-title" ns3:href="assets%5Cview-title.svg" x="90.0" y="1004.736800000447" width="50.222462" height="10" id="image9" />
   </g>
 </svg>
