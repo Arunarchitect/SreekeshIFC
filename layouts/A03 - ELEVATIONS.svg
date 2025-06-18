@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" id="root" version="1.1" width="1189.0mm" height="841.0mm" viewBox="0 0 1189.0 841.0" sodipodi:docname="A03 - ELEVATIONS.svg" inkscape:version="1.3 (0e150ed6c4, 2023-07-21)">
+  <defs id="defs9" />
+  <sodipodi:namedview id="namedview9" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" inkscape:document-units="mm" inkscape:zoom="0.12884251" inkscape:cx="1862.7392" inkscape:cy="1447.5036" inkscape:window-width="1920" inkscape:window-height="1017" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="root" />
+  <g data-type="titleblock" id="g1">
+    <image xlink:href="titleblocks%5CA0.svg" x="0" y="0" width="1189.0" height="841.0" id="image1" />
+  </g>
+  <g data-type="drawing" data-id="358709" data-drawing="2ykKcWFw92uxzYKlKbZPPp" id="g3" transform="translate(168.39033,-14.888169)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CFRONT.svg" x="30" y="30" width="700" height="179.91287" id="image2" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="30" y="214.91287" width="50.222462" height="10" id="image3" />
+  </g>
+  <g data-type="drawing" data-id="358710" data-drawing="1zrymR_mbDp8I1JvpiKFih" id="g5" transform="translate(168.39033,-13.068652)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CLEFT%20SIDE.svg" x="30" y="234.91287" width="700" height="179.91287" id="image4" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="30" y="419.82574" width="50.222462" height="10" id="image5" />
+  </g>
+  <g data-type="drawing" data-id="358711" data-drawing="0Yv$km1YXAAOMugV4UEZub" id="g7" transform="translate(168.39033,-19.508636)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CRIGHT%20SIDE.svg" x="30" y="439.82574" width="700" height="179.57405" id="image6" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="30" y="624.39978" width="50.222462" height="10" id="image7" />
+  </g>
+  <g data-type="drawing" data-id="358712" data-drawing="1vzJ$iNLbAA9kL0eu$F4js" id="g9" transform="translate(168.39033,-25.669257)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CREAR%20SIDE.svg" x="30" y="644.39978" width="800" height="179.84758" id="image8" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="30" y="829.24738" width="50.222462" height="10" id="image9" />
+  </g>
+</svg>
