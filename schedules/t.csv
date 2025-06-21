@@ -1,0 +1,7 @@
+Index,Identification,Name,Quantity,Unit,Contract,Value,Material Rate,Labor Rate,Subtotal,Property,Query
+1,DB,Building Estimate,,,,,,,,,
+2,DB.1,Fixed Glass – of width 4.93m and height 2.5m,1,U,,10000,,,,,"IfcWindow, type=""4.93mW_Fixed"" "
+2,DB.2,Fixed Glass – of width 4.93m and height 2.5m,1,U,,10000,,,,,"IfcWindow, type=""3.45mW_Fixed"""
+2,DB.3,Sliding Door - 2Panels – of total width 3.5m and height 2.5m,1,U,,10000,,,,,"IfcWindow, type=""3.5x2.5_2Panel_Slide"""
+2,DB.4,Fixed Glass – of width 1.715m and height 2.5m,1,U,,10000,,,,,"IfcWindow, type=""1.715mW_Fixed"""
+2,DB.5,Sliding Door - 2Panels – of total width 2.33m and height 2.5m,1,U,,10000,,,,,"IfcWindow, type=""2.33x2.5_2Panel_Slide"""
