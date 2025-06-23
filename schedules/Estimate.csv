@@ -21,6 +21,17 @@ Index,Identification,Name,Quantity,Unit,Contract,Value,Material Rate,Labor Rate,
 shuttering, curing etc. complete""",,m3,,25000,,,,NetVolume,"IfcSlab, location=FF"
 4,1.1.2.3,Beams,,,,,,,,,
 5,1.1.2.3.1,"Lintel Beams – Ground Floor -Reinforced cement concrete 1:1.5:3 using 20mm nominal size broken stone for Roof slab including cost and conveyance of all materials to site, labour charges hire and labour for form work,shuttering, curing etc. Complete""",,m3,,25000,,,,NetVolume,"IfcBeam, location=GFLintel"
+5,1.1.2.3.1,"Structural Beams – Ground Floor -Reinforced cement concrete 1:1.5:3 using 20mm nominal size broken stone for Roof slab including cost and conveyance of all materials to site, labour charges hire and labour for form work,shuttering, curing etc. Complete""",,m3,,25000,,,,NetVolume,"IfcBeam, location=GFLintel"
+,,,,,,,,,,,
+3,1.1.3,Metal fabrications,,,,,,,,,
+4,1.1.3.1,SHS – 0.05x0.15 – Beams for Patio and Courtyard Pergolas,,m,,450,,,,Length,"IfcBeam, type=""SHS_0.05x0.15"""
+4,1.1.3.2,SHS – 0.025x0.025 – Beams and Columns for Verandah Handrails,,m,,90,,,,Length,"IfcColumn, type=""SHS_0.025x0.025""+ IfcBeam, type=""SHS_0.025x0.025"""
+4,1.1.3.3,SHS –0.025x0.025 square pattern – For Verandah Handrails,,U,,560,,,,,"IfcRailing, type=""SP_0.6x0.55"""
+4,1.1.3.4,SHS – 0.15x0.15 – Columns for Porch,,m,,25000,,,,Length,"IfcColumn, type=""SHS_0.15x0.15"""
+4,1.1.3.5,SHS – 0.05x0.05 – Columns For Verandah Handrails,,m,,200,,,,Length,"IfcColumn, type=""SHS_0.05x0.05"""
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
 ,,,,,,,,,,,
 2,1.2,Finishes,,,,,,,,,
 3,1.2.1,"Painting of walls including two coats of wall putty, two coats of primer, and two coats of paint, complete in all respects.",,,,,,,,,
@@ -29,6 +40,20 @@ shuttering, curing etc. complete""",,m3,,25000,,,,NetVolume,"IfcSlab, location=F
 3,1.2.2,"Plastering walls with mix ratio 1:4, 12mm thick one coat floated hard and trowelled smooth including cost and conveyance of all materials to site, labour charges for curing, watering, scaffolding etc. complete",,,,,,,,,
 4,1.2.2.1,Plastering - Ground Floor Walls side 1,,m2,,500,,,,NetSideArea,"IfcWall, location=GFWall"
 4,1.2.2.2,Plastering - Ground Floor Walls side 2,,m2,,500,,,,NetSideArea,"IfcWall, location=GFWall"
-2,1.3,GF Furniture,,,,,,,,,
+3,1.2.3,"Floor finishing using tiles including cost of materials and labor. Material cost range
+ upto Rs.60/Sq.ft",,,,,,,,,
+4,1.2.3.1,Floor Tiles- Ground Floor,,m2,,1350,,,,NetArea,"IfcCovering, location=GF"
+4,1.2.3.2,Floor Tiles- First Floor,,m2,,1350,,,,NetArea,"IfcCovering, location=FF"
+4,1.2.3.3,Floor Tiles- Verandah,,m2,,1350,,,,NetArea,"IfcCovering, location=Verandah"
+,,,,,,,,,,,
+3,1.2.4,"False Ceiling – Providing and fixing 12.5 mm thick gypsum board false ceiling with necessary framing, finishing, and labour charges complete.",,,,,,,,,
+4,1.2.3.3,False ceiling Works in Carporch,,m2,,1080,,,,NetArea,"IfcCovering, location=GFLintel"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+2,1.3,Furniture,,,,,,,,,
 3,1.3.1,"Bed Frame - King sized (LW-1830x2030mm) Custom wooden design with Headboard, complete with materials, finish, and labour.",,U,,75000,,,,,"IfcFurniture, type=""King bed"""
 3,1.3.2,"Bedside Table - (LWH-750x500x550mm) Custom wooden design with 2 Drawers, complete with materials, finish, and labour.",,U,,35000,,,,,"IfcFurniture, type=""Btable_0.7x0.5"""
