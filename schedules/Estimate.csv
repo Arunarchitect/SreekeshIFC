@@ -7,14 +7,16 @@ Index,Identification,Name,Quantity,Unit,Contract,Value,Material Rate,Labor Rate,
 5,1.1.1.1.2,"Random Rubble Masonry – Random rubble masonry work in cement mortar 1:6 using good quality stones, properly dressed and laid, including curing ",,m3,,8000,,,,NetVolume,"IfcWall, type=""60cmW_RRB"", location=Footing"
 5,1.1.1.1.3,"Plinth Beam – Reinforced cement concrete 1:1.5:3 using 20mm nominal size broken stone for plinth beam including cost and conveyance of all materials to site, labour charges, hire and labour for form work, shuttering, curing etc. Complete.",,m3,,500,,,,NetVolume,"IfcBeam, location=Footing"
 5,1.1.1.1.4,EarthFill,,m3,,500,,,,NetVolume,"IfcEarthworksFill, location=Footing"
+5,1.1.1.1.5,"PCC Flooring – 10 cm thick (7 cm base in 1:5 and 3 cm top in 1:3 mix) using 40 mm stone, including all materials, laying, curing, and labour charges complete.",,m3,,500,,,,NetVolume,"IfcSlab, location=GF"
 4,1.1.1.2,Verandah,,,,,,,,,
 5,1.1.1.2.1,"PCC Footing – Using 1:3 cement mortar and 40mm nominal size broken stone including cost and conveyance of all materials to site, labour charges for laying concrete watering, curing etc. complete ",,m3,,8000,,,,NetVolume,"IfcWall, type=""60x10cm_WH_PCC"", location=Verandah"
 5,1.1.1.2.2,"Random Rubble Masonry – Random rubble masonry work in cement mortar 1:6 using good quality stones, properly dressed and laid, including curing ",,m2,,8000,,,,NetSideArea,"IfcWall, type=""60cmW_RRB"", location=Verandah"
 5,1.1.1.2.3,"Plinth Beam – Reinforced cement concrete 1:1.5:3 using 20mm nominal size broken stone for plinth beam including cost and conveyance of all materials to site, labour charges, hire and labour for form work, shuttering, curing etc. Complete.",,m3,,500,,,,NetVolume,"IfcBeam, location=Verandah"
 5,1.1.1.2.4,EarthFill,,m3,,500,,,,NetVolume,"IfcEarthworksFill, location=Verandah"
+5,1.1.1.2.5,"PCC Flooring – 10 cm thick (7 cm base in 1:5 and 3 cm top in 1:3 mix) using 40 mm stone, including all materials, laying, curing, and labour charges complete.",,m3,,500,,,,NetVolume,"IfcSlab, location=Verandah"
 3,1.1.2,SuperStructure,,,,,,,,,
 4,1.1.2.1,Brick Masonry ,,,,,,,,,
-5,1.1.2.1.1,"Brick masonry- Ground Floor- in 1:6 cement mortar, 25 cm thick, using high-quality red bricks, including cost and conveyance of all materials to site, labour charges for mixing, laying, curing, scaffolding, and all other incidental charges, complete.",,m3,,10000,,,,NetVolume,"IfcWall, location=GFWall"
+5,1.1.2.1.1,"Brick masonry- Ground Floor- in 1:6 cement mortar, 25 cm thick, using high-quality red bricks, including cost and conveyance of all materials to site, labour charges for mixing, laying, curing, scaffolding, and all other incidental charges, complete.",,m3,,10000,,,,NetVolume,"IfcWall, location=GFWall +IfcWall, location=GFLintel"
 5,1.1.2.1.2,"Brick masonry- First Floor- in 1:6 cement mortar, 25 cm thick, using high-quality red bricks, including cost and conveyance of all materials to site, labour charges for mixing, laying, curing, scaffolding, and all other incidental charges, complete.",,m3,,10000,,,,NetVolume,"IfcWall, location=FF"
 4,1.1.2.2,Slabs,,,,,,,,,
 5,1.1.2.2.1,"RCC Floor Slab – First Floor – Reinforced cement concrete 1:1.5:3 using 20mm nominal size broken stone for Roof slab including cost and conveyance of all materials to site, labour charges hire and labour for form work,
@@ -30,7 +32,7 @@ shuttering, curing etc. complete""",,m3,,25000,,,,NetVolume,"IfcSlab, location=F
 4,1.1.3.4,SHS – 0.15x0.15 – Columns for Porch,,m,,25000,,,,Length,"IfcColumn, type=""SHS_0.15x0.15"""
 4,1.1.3.5,SHS – 0.05x0.05 – Columns For Verandah Handrails,,m,,200,,,,Length,"IfcColumn, type=""SHS_0.05x0.05"""
 ,,,,,,,,,,,
-3,1.1.4,Metal fabrications,,,,,,,,,
+3,1.1.4,Roof ,,,,,,,,,
 4,1.1.4.1,Roof Structure with SHS trusswork and Clay tile on top with cement board on bottom ,,m2,,3250,,,,NetArea,"IfcRoof, type=""Main Roof"""
 4,1.1.4.2,Sub Roof Structure with SHS trusswork and Clay tile on top with cement board on bottom ,,m2,,3250,,,,NetArea,"IfcRoof, type=""Gable Roof"""
 4,1.1.4.3,"Toughened Glass Roof for Pergola, Courtyard and Patio",,m2,,3500,,,,NetArea,"IfcSlab, type=""Glass 4mm"""
@@ -64,7 +66,7 @@ shuttering, curing etc. complete""",,m3,,25000,,,,NetVolume,"IfcSlab, location=F
 2,1.4,Joinery,,,,,,,,,
 3,1.4.1,Doors,,,,,,,,,
 4,1.4.1.1,Ground Floor Doors,,,,,,,,,
-5,1.4.1.1.1,1m wide and 2.1m high Single Swing Door Frame and Door made using FRP.,,U,,18000,,,,,"IfcDoor, location=GF, type=""D_1x2.1_PH_LSW"" + IfcDoor, location=GF, type=""1x2.1_PH_RSW"""
+5,1.4.1.1.1,1m wide and 2.1m high Single Swing Door Frame and Door made using FRP.,,U,,18000,,,,,"IfcDoor, location=GF, type=""D_1x2.1_PH_LSW"" + IfcDoor, location=GF, type=""D_1x2.1_PH_RSW"""
 5,1.4.1.1.1,90cm wide and 2.1m high Single Swing Door Frame and Door made using FRP.,,U,,16000,,,,,"IfcDoor, location=GF, type=""D_0.9x2.1_PH_LSW"" + IfcDoor, location=GF, type=""D_0.9x2.1_PH_RSW"""
 5,1.4.1.1.1,1.2m wide and 2.1m high Single Swing Door Frame and Door made using FRP.,,U,,22000,,,,,"IfcDoor, location=GF, type=""D_1.2x2.1_2PH_SW"""
 5,1.4.1.1.1,3m wide and 2.1m high 3Panel with 1st and 2nd panel Sliding Door,,U,,22000,,,,,"IfcDoor, location=GF, type=""D_3x2.1_3PH_12SL"""
@@ -83,3 +85,35 @@ shuttering, curing etc. complete""",,m3,,25000,,,,NetVolume,"IfcSlab, location=F
 4,1.4.2.2,First Floor Windows,,,,,,,,,
 5,1.4.2.2.1,1.55m wide and 1.3m high 2 Panel uPVC Sliding Window.,,U,,28500,,,,,"IfcWindow, location=FF, type=""W_1.55x1.3_2P_SL"" "
 5,1.4.2.2.2,2m wide and 1.41m high Custom made Fixed uPVC  Window.,,U,,40000,,,,,"IfcWindow, location=FF, type=""W_Custom_2x1.41"" "
+,,,,,,,,,,,
+,,,,,,,,,,,
+2,1.5,Electrical,,,,,,,,,
+3,1.5.1,Fixtures,,,,,,,,,
+4,1.5.1.1,Ground Floor Fixtures,,,,,,,,,
+5,1.5.1.1.1,15W LED ceiling downlights,,U,,500,,,,,"IfcLamp, type=""15W_LED"""
+5,1.5.1.1.2,BLDC Ceiling Fan,,U,,5000,,,,,"IfcElectricAppliance, type=""BLDC_CFAN"""
+5,1.5.1.1.3,Solar Panel 500W,,U,,25000,,,,,"IfcSolarDevice, type=""1x2_500W_SPANEL"""
+5,1.5.1.1.4,Motor Pump 1.5HP,,U,,15000,,,,,"IfcPump, type=""1.5HP"""
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+2,1.6,Mechanical,,,,,,,,,
+3,1.6.1,AC,,,,,,,,,
+4,1.6.1.1,1.5T Indoor Split Units,,U,,15000,,,,,"IfcUnitaryEquipment, type=""0.85x.6_1.5T_OUNIT"""
+4,1.6.1.2,1.5T Outdoor Units,,U,,15000,,,,,"IfcUnitaryEquipment, type=""0.91x.3_1.5T_IUNIT"""
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+2,1.7,Landscape,,,,,,,,,
+3,1.7.1,Compound Wall,,,,,,,,,
+4,1.7.1.1,Brick Wall – 180mm thick ,,m3,,10000,,,,NetVolume,"IfcWall, location=00, type=""W_0.18"""
+4,1.7.1.2,Paint ,,,,,,,,,
+5,1.7.1.2.1,One side,,,,,,,,NetSideArea,"IfcWall, location=00, type=""W_0.18"""
+5,1.7.1.2.2,One side,,,,,,,,NetSideArea,"IfcWall, location=00, type=""W_0.18"""
+4,1.7.1.3,Plastering ,,,,,,,,,
+5,1.7.1.3.1,One side,,m2,,500,,,,NetSideArea,"IfcWall, location=00, type=""W_0.18"""
+5,1.7.1.3.1,One side,,m2,,500,,,,NetSideArea,"IfcWall, location=00, type=""W_0.18"""
+3,1.7.2,Main Gate,,U,,75000,,,,,"IfcDoor,type=""DG_3x1.8_2PH_SW"""
+3,1.7.3,Wicket Gate,,U,,40000,,,,,"IfcDoor,type=""DG_1.2x2.1_2PH_SW"""
+3,1.7.4,Wicket Gate Roof Structure with SHS trusswork and Clay tile on top with cement board on bottom ,,m2,,3250,,,,NetArea,"IfcRoof, location=00"
+3,1.7.5,Pavement – Interlocking tiles ,,m2,,300,,,,Volume/Thickness,IfcCourse
