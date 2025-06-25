@@ -62,19 +62,22 @@ shuttering, curing etc. complete""",,m3,,25000,,,,NetVolume,"IfcSlab, location=F
 3,1.3.1,Fixed Furniture,,,,,,,,,
 4,1.3.1.1,Kitchen Bottom Cabinet 85cm height,,m3,,35000,,,,Net Volume,"IfcFurniture, type=""Kitchen_BCabinet_0.6x0.85"""
 4,1.3.1.2,Storage Bottom Cabinet 85cm height,,m3,,30000,,,,Net Volume,"IfcFurniture, type=""Storage_BCabinet_0.6x0.85"""
-,,,,,,,,,,,
-,,,,,,,,,,,
+4,1.3.1.3,"Bedroom Wardrobe with 1.5m length, 0.5m depth and 2.1m height",,m3,,30000,,,,Volume,"IfcFurniture, type=""Wardrobe_1.5x0.5x2.1"""
+4,1.3.1.4,"Bedroom Wardrobe with 2m length, 0.6m depth and 2.1m height",,m3,,30000,,,,Volume,"IfcFurniture, type=""Wardrobe_2x0.6x2.1"""
+4,1.3.1.4,"Bedroom Wardrobe with 2m length, 0.6m depth and 2.1m height",,m3,,30000,,,,Volume,"IfcFurniture, type=""Wardrobe_1.5x0.5x1.2"""
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 3,1.3.2,Loose Furniture,,,,,,,,,
 4,1.3.2.1,"Bed Frame - King sized (LW-2030x1830mm) Custom wooden design with Headboard, complete with materials, finish, and labour.",,U,,75000,,,,,"IfcFurniture, type=""KingBedFrame_2.03x1.83"""
 4,1.3.2.2,"Bedside Table – (LWH-500x450x550mm) Custom wooden design with 2 Drawers, complete with materials, finish, and labour.",,U,,18000,,,,,"IfcFurniture, type=""Btable_0.5x0.45"""
 4,1.3.2.3,"Bed Frame – Single sized (LW-1830x2030mm) Custom wooden design with Headboard, complete with materials, finish, and labour.",,U,,75000,,,,,"IfcFurniture, type=""SingleBedFrame_1.88x0.9"""
-4,1.3.2.4,"Single Seat Sofa – 0.75x0.7 (DW) Custom Design with Upholstery, complete with materials, finish, and labour.",,U,,35000,,,,,"IfcFurniture, type=""1SeatSofa_0.75x0.7"""
+4,1.3.2.4,"Single Seat Sofa – 0.75x0.7 (DW) Custom Design with Upholstery, complete with materials, finish, and labour.",,U,,35000,,,,,"IfcFurniture, type=""1SeatSofa_0.75x0.7x0.9"""
 4,1.3.2.5,"Dining Table - (LWH-2400x1200x780mm) Custom wooden design, complete with materials, finish, and labour.",,U,,50000,,,,,"IfcFurniture, type=""DiningTable_2.4x1.2x0.78"""
 4,1.3.2.6,"Dining Chair - (LWH-2400x1200x780mm) Custom wooden design, complete with materials, finish, and labour.",,U,,25000,,,,,"IfcFurniture, type=""DiningChair_0.45x0.45x0.9"""
 4,1.3.2.7,"Breakfast Stool – (LWH-300x300x650mm) Custom wooden design, complete with materials, finish, and labour.",,U,,18000,,,,,"IfcFurniture, type=""Stool_0.3x0.3x0.65"""
-,,,,,,,,,,,
+4,1.3.2.8,"3 Seat Sofa – 0.75x0.7 (DW) Custom Design with Upholstery, complete with materials, finish, and labour.",,U,,45000,,,,,"IfcFurniture, type=""3SeatSofa_2.1x0.9x0.9"""
+4,1.3.2.9,"Bed Frame – Queen sized (LW-2030x1830mm) Custom wooden design with Headboard, complete with materials, finish, and labour.",,U,,60000,,,,,"IfcFurniture, type=""QueenBedFrame_2.03x1.53"""
+4,1.3.2.10,"Single Seat Recliner – 0.9x0.9x0.9 (DWH) Custom Design with Upholstery, complete with materials, finish, and labour.",,U,,45000,,,,,"IfcFurniture, type=""1SeatRecliner_0.9x0.9x0.9"""
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 2,1.4,Joinery,,,,,,,,,
@@ -131,3 +134,20 @@ shuttering, curing etc. complete""",,m3,,25000,,,,NetVolume,"IfcSlab, location=F
 3,1.7.3,Wicket Gate,,U,,40000,,,,,"IfcDoor,type=""DG_1.2x2.1_2PH_SW"""
 3,1.7.4,Wicket Gate Roof Structure with SHS trusswork and Clay tile on top with cement board on bottom ,,m2,,3250,,,,NetArea,"IfcRoof, location=00"
 3,1.7.5,Pavement – Interlocking tiles ,,m2,,300,,,,Net Top area,IfcCourse
+,,,,,,,,,,,
+,,,,,,,,,,,
+2,1.8,Plumbing,,,,,,,,,
+3,1.8.1,Rain Gutter,,m,,200,,,,Length,"IfcBeam, location=Plumbing"
+3,1.8.2,Tanks,,m,,,,,,,
+4,1.8.2.1,Water Tank 1000L,,U,,18000,,,,,"IfcTank, type=""WaterTank_1000L"""
+4,1.8.2.2,Septic Tank – Cylindrical for 30 Flushes,,U,,18000,,,,,"IfcTank, type=""CYL_STANK_30FL"""
+3,1.8.2,Inspection Chambers,,m,,,,,,,
+4,1.8.2.1,1.5ft Fibre Chamber with Lid for Water Closet and Septic tank covers,,U,,18000,,,,,"IfcDistributionChamberElement, type=""1.5ft_WCS"""
+4,1.8.2.1,1.5ft Fibre Chamber with Lid for Water Closet and Septic tank covers,,U,,18000,,,,,"IfcDistributionChamberElement, type=""  1ft_WKR  """
+,,,,,,,,,,,
+2,1.8,Sanitary Fittings,,,,,,,,,
+3,1.8.1,Ground Floor ,,U,,,,,,,
+3,1.8.2,Shower,,U,,,,,,,
+3,1.8.2,Kitchen Sink,,U,,,,,,,
+3,1.8.2,Kitchen Sink,,U,,,,,,,
+3,1.8.2,Kitchen Sink,,U,,,,,,,
