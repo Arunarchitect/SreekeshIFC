@@ -3,17 +3,19 @@ Index,Identification,Name,Quantity,Unit,Contract,Value,Material Rate,Labor Rate,
 2,1.1,Structure,,,,,,,,,
 3,1.1.1,Foundation,,,,,,,,,
 4,1.1.1.1,Walls,,,,,,,,,
-5,1.1.1.1.1,"PCC Footing – Using 1:3 cement mortar and 40mm nominal size broken stone including cost and conveyance of all materials to site, labour charges for laying concrete watering, curing etc. complete ",,m3,,8000,,,,NetVolume,"IfcWall, type=""75x12cm_WH_PCC"""
-5,1.1.1.1.2,"Random Rubble Masonry – Random rubble masonry work in cement mortar 1:6 using good quality stones, properly dressed and laid, including curing ",,m3,,8000,,,,NetVolume,"IfcWall, type=""60cmW_RRB"", location=Footing"
-5,1.1.1.1.3,"Plinth Beam – Reinforced cement concrete 1:1.5:3 using 20mm nominal size broken stone for plinth beam including cost and conveyance of all materials to site, labour charges, hire and labour for form work, shuttering, curing etc. Complete.",,m3,,500,,,,NetVolume,"IfcBeam, location=Footing"
-5,1.1.1.1.4,EarthFill,,m3,,500,,,,NetVolume,"IfcEarthworksFill, location=Footing"
-5,1.1.1.1.5,"PCC Flooring – 10 cm thick (7 cm base in 1:5 and 3 cm top in 1:3 mix) using 40 mm stone, including all materials, laying, curing, and labour charges complete.",,m3,,500,,,,NetVolume,"IfcSlab, location=GF"
+5,1.1.1.1.1,"PCC Footing – Using 1:3 cement mortar and 40mm nominal size broken stone including cost and conveyance of all materials to site, labour charges for laying concrete watering, curing etc. complete ",,m3,,8000,,,,NetVolume,"IfcWall, type=""PCC_0.75W0.12D"""
+5,1.1.1.1.2,"Random Rubble Masonry – Random rubble masonry work in cement mortar 1:6 using good quality stones, properly dressed and laid, including curing ",,m3,,8000,,,,NetVolume,"IfcWall, type=""RRB_0.6W"", location=Footing"
+5,1.1.1.1.3,"Plinth - Random rubble masonry work in cement mortar 1:6 using good quality stones, properly dressed and laid, including curing ",,m3,,8000,,,,NetVolume,"IfcWall, type=""RRB_0.45W"", location=Footing +IfcWall, type=""RRB_0.425W"", location=Footing"
+5,1.1.1.1.4,"Plinth Beam – Reinforced cement concrete 1:1.5:3 using 20mm nominal size broken stone for plinth beam including cost and conveyance of all materials to site, labour charges, hire and labour for form work, shuttering, curing etc. Complete.",,m3,,500,,,,NetVolume,"IfcBeam, location=Footing"
+5,1.1.1.1.5,EarthFill,,m3,,500,,,,NetVolume,"IfcEarthworksFill, location=Footing"
+5,1.1.1.1.6,"PCC Flooring – 10 cm thick (7 cm base in 1:5 and 3 cm top in 1:3 mix) using 40 mm stone, including all materials, laying, curing, and labour charges complete.",,m3,,500,,,,NetVolume,"IfcSlab, location=GF"
 4,1.1.1.2,Verandah,,,,,,,,,
-5,1.1.1.2.1,"PCC Footing – Using 1:3 cement mortar and 40mm nominal size broken stone including cost and conveyance of all materials to site, labour charges for laying concrete watering, curing etc. complete ",,m3,,8000,,,,NetVolume,"IfcWall, type=""60x10cm_WH_PCC"", location=Verandah"
-5,1.1.1.2.2,"Random Rubble Masonry – Random rubble masonry work in cement mortar 1:6 using good quality stones, properly dressed and laid, including curing ",,m2,,8000,,,,NetSideArea,"IfcWall, type=""60cmW_RRB"", location=Verandah"
-5,1.1.1.2.3,"Plinth Beam – Reinforced cement concrete 1:1.5:3 using 20mm nominal size broken stone for plinth beam including cost and conveyance of all materials to site, labour charges, hire and labour for form work, shuttering, curing etc. Complete.",,m3,,500,,,,NetVolume,"IfcBeam, location=Verandah"
-5,1.1.1.2.4,EarthFill,,m3,,500,,,,NetVolume,"IfcEarthworksFill, location=Verandah"
-5,1.1.1.2.5,"PCC Flooring – 10 cm thick (7 cm base in 1:5 and 3 cm top in 1:3 mix) using 40 mm stone, including all materials, laying, curing, and labour charges complete.",,m3,,500,,,,NetVolume,"IfcSlab, location=Verandah"
+5,1.1.1.2.1,"PCC Footing – Using 1:3 cement mortar and 40mm nominal size broken stone including cost and conveyance of all materials to site, labour charges for laying concrete watering, curing etc. complete ",,m3,,8000,,,,NetVolume,"IfcWall, type=""PCC_0.6W0.1D"", location=Verandah"
+5,1.1.1.2.2,"Random Rubble Masonry – Random rubble masonry work in cement mortar 1:6 using good quality stones, properly dressed and laid, including curing ",,m3,,8000,,,,NetVolume,"IfcWall, type=""RRB_0.6W"", location=Verandah"
+5,1.1.1.2.3,"Plinth - Random rubble masonry work in cement mortar 1:6 using good quality stones, properly dressed and laid, including curing ",,m3,,8000,,,,NetVolume,"IfcWall, type=""RRB_0.45W"", location=Verandah"
+5,1.1.1.2.4,"Plinth Beam – Reinforced cement concrete 1:1.5:3 using 20mm nominal size broken stone for plinth beam including cost and conveyance of all materials to site, labour charges, hire and labour for form work, shuttering, curing etc. Complete.",,m3,,500,,,,NetVolume,"IfcBeam, location=Verandah"
+5,1.1.1.2.5,EarthFill,,m3,,500,,,,NetVolume,"IfcEarthworksFill, location=Verandah"
+5,1.1.1.2.6,"PCC Flooring – 10 cm thick (7 cm base in 1:5 and 3 cm top in 1:3 mix) using 40 mm stone, including all materials, laying, curing, and labour charges complete.",,m3,,500,,,,NetVolume,"IfcSlab, location=Verandah"
 3,1.1.2,SuperStructure,,,,,,,,,
 4,1.1.2.1,Brick Masonry ,,,,,,,,,
 5,1.1.2.1.1,"Brick masonry- Ground Floor- in 1:6 cement mortar, 25 cm thick, using high-quality red bricks, including cost and conveyance of all materials to site, labour charges for mixing, laying, curing, scaffolding, and all other incidental charges, complete.",,m3,,10000,,,,NetVolume,"IfcWall, location=GFWall +IfcWall, location=GFLintel"
@@ -24,6 +26,8 @@ shuttering, curing etc. complete""",,m3,,25000,,,,NetVolume,"IfcSlab, location=F
 4,1.1.2.3,Beams,,,,,,,,,
 5,1.1.2.3.1,"Lintel Beams – Ground Floor -Reinforced cement concrete 1:1.5:3 using 20mm nominal size broken stone for Roof slab including cost and conveyance of all materials to site, labour charges hire and labour for form work,shuttering, curing etc. Complete""",,m3,,25000,,,,NetVolume,"IfcBeam, location=GFLintel"
 5,1.1.2.3.1,"Structural Beams – Ground Floor -Reinforced cement concrete 1:1.5:3 using 20mm nominal size broken stone for Roof slab including cost and conveyance of all materials to site, labour charges hire and labour for form work,shuttering, curing etc. Complete""",,m3,,25000,,,,NetVolume,"IfcBeam, location=GFLintel"
+4,1.1.2.4,Staircase   ,,,,,,,,,
+5,1.1.2.4.1,"Staircase -Reinforced cement concrete 1:1.5:3 using 20mm nominal size broken stone for Roof slab including cost and conveyance of all materials to site, labour charges hire and labour for form work,shuttering, curing etc. Complete""",,m3,,25000,,,,NetVolume,"IfcStairFlight, type=""5S"" + IfcStairFlight, type=""13S"""
 ,,,,,,,,,,,
 3,1.1.3,Metal fabrications,,,,,,,,,
 4,1.1.3.1,SHS – 0.05x0.15 – Beams for Patio and Courtyard Pergolas,,m,,450,,,,Length,"IfcBeam, type=""SHS_0.05x0.15"""
@@ -54,14 +58,24 @@ shuttering, curing etc. complete""",,m3,,25000,,,,NetVolume,"IfcSlab, location=F
 3,1.2.4,"False Ceiling – Providing and fixing 12.5 mm thick gypsum board false ceiling with necessary framing, finishing, and labour charges complete.",,,,,,,,,
 4,1.2.3.3,False ceiling Works in Carporch,,m2,,1080,,,,NetArea,"IfcCovering, location=GFLintel"
 ,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
 2,1.3,Furniture,,,,,,,,,
-3,1.3.1,"Bed Frame - King sized (LW-1830x2030mm) Custom wooden design with Headboard, complete with materials, finish, and labour.",,U,,75000,,,,,"IfcFurniture, type=""King bed"""
-3,1.3.2,"Bedside Table - (LWH-750x500x550mm) Custom wooden design with 2 Drawers, complete with materials, finish, and labour.",,U,,35000,,,,,"IfcFurniture, type=""Btable_0.7x0.5"""
+3,1.3.1,Fixed Furniture,,,,,,,,,
+4,1.3.1.1,Kitchen Bottom Cabinet 85cm height,,m3,,35000,,,,Net Volume,"IfcFurniture, type=""Kitchen_BCabinet_0.6x0.85"""
+4,1.3.1.2,Storage Bottom Cabinet 85cm height,,m3,,30000,,,,Net Volume,"IfcFurniture, type=""Storage_BCabinet_0.6x0.85"""
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+3,1.3.2,Loose Furniture,,,,,,,,,
+4,1.3.2.1,"Bed Frame - King sized (LW-2030x1830mm) Custom wooden design with Headboard, complete with materials, finish, and labour.",,U,,75000,,,,,"IfcFurniture, type=""KingBedFrame_2.03x1.83"""
+4,1.3.2.2,"Bedside Table – (LWH-500x450x550mm) Custom wooden design with 2 Drawers, complete with materials, finish, and labour.",,U,,18000,,,,,"IfcFurniture, type=""Btable_0.5x0.45"""
+4,1.3.2.3,"Bed Frame – Single sized (LW-1830x2030mm) Custom wooden design with Headboard, complete with materials, finish, and labour.",,U,,75000,,,,,"IfcFurniture, type=""SingleBedFrame_1.88x0.9"""
+4,1.3.2.4,"Single Seat Sofa – 0.75x0.7 (DW) Custom Design with Upholstery, complete with materials, finish, and labour.",,U,,35000,,,,,"IfcFurniture, type=""1SeatSofa_0.75x0.7"""
+4,1.3.2.5,"Dining Table - (LWH-2400x1200x780mm) Custom wooden design, complete with materials, finish, and labour.",,U,,50000,,,,,"IfcFurniture, type=""DiningTable_2.4x1.2x0.78"""
+4,1.3.2.6,"Dining Chair - (LWH-2400x1200x780mm) Custom wooden design, complete with materials, finish, and labour.",,U,,25000,,,,,"IfcFurniture, type=""DiningChair_0.45x0.45x0.9"""
+4,1.3.2.7,"Breakfast Stool – (LWH-300x300x650mm) Custom wooden design, complete with materials, finish, and labour.",,U,,18000,,,,,"IfcFurniture, type=""Stool_0.3x0.3x0.65"""
+,,,,,,,,,,,
+,,,,,,,,,,,
 ,,,,,,,,,,,
 2,1.4,Joinery,,,,,,,,,
 3,1.4.1,Doors,,,,,,,,,
@@ -116,4 +130,4 @@ shuttering, curing etc. complete""",,m3,,25000,,,,NetVolume,"IfcSlab, location=F
 3,1.7.2,Main Gate,,U,,75000,,,,,"IfcDoor,type=""DG_3x1.8_2PH_SW"""
 3,1.7.3,Wicket Gate,,U,,40000,,,,,"IfcDoor,type=""DG_1.2x2.1_2PH_SW"""
 3,1.7.4,Wicket Gate Roof Structure with SHS trusswork and Clay tile on top with cement board on bottom ,,m2,,3250,,,,NetArea,"IfcRoof, location=00"
-3,1.7.5,Pavement – Interlocking tiles ,,m2,,300,,,,Volume/Thickness,IfcCourse
+3,1.7.5,Pavement – Interlocking tiles ,,m2,,300,,,,Net Top area,IfcCourse
