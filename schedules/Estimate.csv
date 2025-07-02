@@ -9,16 +9,16 @@ Index,Identification,Name,Quantity,Unit,Contract,Value,Material Rate,Labor Rate,
 5,1.1.1.1.4,"Plinth - Random rubble masonry work in cement mortar 1:6 using good quality stones, properly dressed and laid, including curing ",,m3,,8000,,,,NetVolume,"IfcWall, type=""RRB_0.45W"", location=Footing +IfcWall, type=""RRB_0.425W"", location=Footing"
 5,1.1.1.1.5,"Plinth Beam – Reinforced cement concrete 1:1.5:3 using 20mm nominal size broken stone for plinth beam including cost and conveyance of all materials to site, labour charges, hire and labour for form work, shuttering, curing etc. Complete.",,m3,,500,,,,NetVolume,"IfcBeam, location=Footing"
 5,1.1.1.1.6,EarthFill,,m3,,500,,,,NetVolume,"IfcEarthworksFill, location=Footing"
-5,1.1.1.1.7,"PCC Flooring – 10 cm thick (7 cm base in 1:5 and 3 cm top in 1:3 mix) using 40 mm stone, including all materials, laying, curing, and labour charges complete.",,m3,,500,,,,NetVolume,"IfcSlab, location=GF"
+5,1.1.1.1.7,"PCC Flooring – 10 cm thick (7 cm base in 1:5 and 3 cm top in 1:3 mix) using 40 mm stone, including all materials, laying, curing, and labour charges complete.",,m3,,8000,,,,NetVolume,"IfcSlab, location=GF"
 4,1.1.1.2,Verandah,,,,,,,,,
 5,1.1.1.2.1,Earth Work Excavation,,m3,,500,,,,NetVolume,"IfcWall, type=""PCC_0.6W0.1D"", location=Verandah + IfcWall, type=""RRB_0.6W"", location=Verandah"
 5,1.1.1.2.1,"PCC Footing – Using 1:3 cement mortar and 40mm nominal size broken stone including cost and conveyance of all materials to site, labour charges for laying concrete watering, curing etc. complete ",,m3,,8000,,,,NetVolume,"IfcWall, type=""PCC_0.6W0.1D"", location=Verandah"
 5,1.1.1.2.2,"Random Rubble Masonry – Random rubble masonry work in cement mortar 1:6 using good quality stones, properly dressed and laid, including curing ",,m3,,8000,,,,NetVolume,"IfcWall, type=""RRB_0.6W"", location=Verandah"
 5,1.1.1.2.3,"Plinth - Random rubble masonry work in cement mortar 1:6 using good quality stones, properly dressed and laid, including curing ",,m3,,8000,,,,NetVolume,"IfcWall, type=""RRB_0.45W"", location=Verandah"
-5,1.1.1.2.4,"Plinth Beam – Reinforced cement concrete 1:1.5:3 using 20mm nominal size broken stone for plinth beam including cost and conveyance of all materials to site, labour charges, hire and labour for form work, shuttering, curing etc. Complete.",,m3,,500,,,,NetVolume,"IfcBeam, location=Verandah"
+5,1.1.1.2.4,"Plinth Beam – Reinforced cement concrete 1:1.5:3 using 20mm nominal size broken stone for plinth beam including cost and conveyance of all materials to site, labour charges, hire and labour for form work, shuttering, curing etc. Complete.",,m3,,25000,,,,NetVolume,"IfcBeam, location=Verandah"
 5,1.1.1.2.5,EarthFill,,m3,,500,,,,NetVolume,"IfcEarthworksFill, location=Verandah"
-5,1.1.1.2.6,"PCC Flooring – 10 cm thick (7 cm base in 1:5 and 3 cm top in 1:3 mix) using 40 mm stone, including all materials, laying, curing, and labour charges complete.",,m3,,500,,,,NetVolume,"IfcSlab, location=Verandah"
-4,1.1.1.3,"PCC Flooring _Car Porch – 10 cm thick (7 cm base in 1:5 and 3 cm top in 1:3 mix) using 40 mm stone, including all materials, laying, curing, and labour charges complete.",,m3,,500,,,,NetVolume,"IfcSlab, location=00"
+5,1.1.1.2.6,"PCC Flooring – 10 cm thick (7 cm base in 1:5 and 3 cm top in 1:3 mix) using 40 mm stone, including all materials, laying, curing, and labour charges complete.",,m3,,9000,,,,NetVolume,"IfcSlab, location=Verandah"
+4,1.1.1.3,"PCC Flooring _Car Porch – 10 cm thick (7 cm base in 1:5 and 3 cm top in 1:3 mix) using 40 mm stone, including all materials, laying, curing, and labour charges complete.",,m3,,9000,,,,NetVolume,"IfcSlab, location=00"
 3,1.1.2,SuperStructure,,,,,,,,,
 4,1.1.2.1,Brick Masonry ,,,,,,,,,
 5,1.1.2.1.1,"Brick masonry- Ground Floor- in 1:6 cement mortar, 25 cm thick, using high-quality red bricks, including cost and conveyance of all materials to site, labour charges for mixing, laying, curing, scaffolding, and all other incidental charges, complete.",,m3,,10000,,,,NetVolume,"IfcWall, location=GFWall +IfcWall, location=GFLintel"
@@ -128,14 +128,14 @@ shuttering, curing etc. complete""",,m3,,25000,,,,NetVolume,"IfcSlab, location=F
 5,1.5.1.1.2,BLDC Ceiling Fan,,U,,5000,,,,,"IfcElectricAppliance, type=""BLDC_CFAN"""
 5,1.5.1.1.3,Solar Panel 500W,,U,,25000,,,,,"IfcSolarDevice, type=""1x2_500W_SPANEL"""
 5,1.5.1.1.4,Motor Pump 1.5HP,,U,,15000,,,,,"IfcPump, type=""1.5HP"""
-,,,,,,,,,,,
+5,1.5.1.1.5,Conduits and Labor,,lumsum,,150000,,,150000,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 2,1.6,Mechanical,,,,,,,,,
 3,1.6.1,AC,,,,,,,,,
-4,1.6.1.1,1.5T Indoor Split Units,,U,,15000,,,,,"IfcUnitaryEquipment, type=""0.85x.6_1.5T_OUNIT"""
-4,1.6.1.2,1.5T Outdoor Units,,U,,15000,,,,,"IfcUnitaryEquipment, type=""0.91x.3_1.5T_IUNIT"""
-,,,,,,,,,,,
+4,1.6.1.1,1T Indoor Split Units,,U,,20000,,,,,"IfcUnitaryEquipment, type=""0.85x.6_1.5T_OUNIT"""
+4,1.6.1.2,1T Outdoor Units,,U,,20000,,,,,"IfcUnitaryEquipment, type=""0.91x.3_1.5T_IUNIT"""
+5,1.5.1.1.5,Conduits and Labor,,U,,10000,,,10000,,"IfcUnitaryEquipment, type=""0.91x.3_1.5T_IUNIT"""
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 2,1.7,Landscape,,,,,,,,,
@@ -166,12 +166,7 @@ shuttering, curing etc. complete""",,m3,,25000,,,,NetVolume,"IfcSlab, location=F
 4,1.8.2.1,1.5ft Fibre Chamber with Lid for Water Closet and Septic tank covers,,U,,18000,,,,,"IfcDistributionChamberElement, type=""1.5ft_WCS"""
 4,1.8.2.1,"1ft Fibre Chamber with Lid for Kitchen, WasteWater and Rain Water",,U,,18000,,,,,"IfcDistributionChamberElement, type=""1ft_WKR"""
 3,1.8.3,Soakpit,,U,,35000,,,,,IfcWasteTerminal
-3,1.8.,Pipes,,m,,200,,,,Length,"IfcBeam, location=Plumbing"
-4,1.8.2.1,4inch Pipe for WC and Septic Tank.,,m,,300,,,,Length,"IfcPipeSegment, type=""4inch Septic Tank"""
-4,1.8.2.2,4inch Pipe for RainWater Tank.,,m,,300,,,,Length,"IfcPipeSegment, type=""4inch RainWater"""
-4,1.8.2.3,2.5 inch Pipe for Kitchen,,m,,250,,,,Length,"IfcPipeSegment, type=""2.5inch- Kitchen Outlet"""
-4,1.8.2.4,2inch Pipe for Bathrooms,,m,,220,,,,Length,"IfcPipeSegment, type=""2inch-bath outlet"""
-4,1.8.2.5,Inlet Pipe,,m,,220,,,,Length,"IfcPipeSegment, type=""2inch-bath outlet"" +IfcPipeSegment, type=""4inch Septic Tank"""
+3,1.8.,Pipes – Material and Labor,,lumsum,,180000,,,180000,,
 ,,,,,,,,,,,
 2,1.8,Sanitary Fittings,,,,,,,,,
 3,1.8.1,Ground Floor ,,,,,,,,,
