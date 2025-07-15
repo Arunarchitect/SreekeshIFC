@@ -61,7 +61,7 @@ text.regular, tspan.regular { /* 2.5mm */ font-size: 4.13px; }
 text.small, tspan.small { /* 1.8mm */ font-size: 2.97px; }
 text.GRID, tspan.GRID { /* 5mm */ font-size: 8.25px; }
 .material-blank { fill: white; }
-.material-blackwater { fill: white; stroke: violet; stroke-width: 0.5; }
+
 .material-kitchenwater { fill: white; stroke: rgb(11, 105, 2); stroke-width: 0.5; }
 .material-hotwater { fill: white; stroke: red; stroke-width: 0.5; }
 .material-coldwater { fill: white; stroke: blue; stroke-width: 0.5; }
@@ -73,8 +73,31 @@ text.GRID, tspan.GRID { /* 5mm */ font-size: 8.25px; }
 .material-crosshatch1 { fill: url(#crosshatch1); }
 .material-crosshatch2 { fill: url(#crosshatch2); }
 .material-crosshatch3 { fill: url(#crosshatch3); }
-.material-brick { fill: url(#brick); }
-.material-brick2 { fill: url(#brick2); }
+.material-brick {
+  fill: none ;
+  stroke: black ;
+  stroke-opacity: 0.4;
+  stroke-width: 0.02;
+}
+
+.material-blackwater { fill: white; stroke: violet; stroke-width: 0.5; }
+
+
+.material-brick2 {
+  fill: none;
+  stroke: black;
+  stroke-opacity: 0.2;
+  stroke-width: 0.05;
+}
+
+.material-bathroomtile {
+  fill: none;
+  stroke: rgb(255, 0, 0);
+  stroke-opacity: 0.1;
+  stroke-width: 0.001;
+}
+
+
 .material-randomrubble { fill: url(#randomrubble); }
 .material-earth { fill: url(#earth); }
 .material-glass { fill: url(#glass); }
