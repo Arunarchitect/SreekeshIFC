@@ -6,7 +6,7 @@
    id="root"
    viewBox="0 0 1189 841"
    sodipodi:docname="A0.svg"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,13 +24,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.2548169"
-     inkscape:cx="4218.1452"
-     inkscape:cy="2190.3594"
+     inkscape:zoom="0.31370423"
+     inkscape:cx="4085.0581"
+     inkscape:cy="2634.6473"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="root" />
   <defs
@@ -983,9 +983,9 @@
        xml:space="preserve"><tspan
          x="168.16762"
          y="195.34851"
-         id="tspan38"><tspan
+         id="tspan40"><tspan
            style="font-family:ISOCPEUR;-inkscape-font-specification:ISOCPEUR"
-           id="tspan37">{{Name}}</tspan></tspan></text>
+           id="tspan39">{{Name}}</tspan></tspan></text>
   </g>
   <path
      id="path3"
@@ -993,7 +993,7 @@
      style="fill:none;stroke:#000000;stroke-width:0.148167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
   <g
      id="g37148"
-     transform="translate(1059.1092,817.5729)">
+     transform="rotate(180,529.55456,408.66155)">
     <g
        id="g37140"
        data-type="grid-north">
@@ -1335,24 +1335,26 @@
      style="text-decoration:underline;text-decoration-line:underline;white-space:pre;inline-size:4400.38"><tspan
        x="0"
        y="0"
-       id="tspan40"><tspan
+       id="tspan42"><tspan
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00016784668 0 0.00012207031 -0.00012207031 0 0 0 -0.00016784668 0.00012207031 0 -0.00016784668 0.00012207031 0 -0.00016784668"
          style="font-size:302.613px;font-family:ISOCPEUR"
-         id="tspan39">PROPOSED RESIDENTIAL BUILDING&#10;</tspan></tspan><tspan
+         id="tspan41">PROPOSED RESIDENTIAL BUILDING
+</tspan></tspan><tspan
        x="0"
        y="378.26626"
-       id="tspan42"><tspan
-         dx="0 0 0 0 0 0 0 0 -0.00012207031 0 0 0 0 0 0 0 -0.00019836426 0 0 0 -0.00016784668 0 0 -0.00012207031"
+       id="tspan44"><tspan
+         dx="0 0 0 0 0 0 0 0 -0.00012207031 0 0.00012207031 0 0 0 -0.00012207031 0.00012207031 0 -0.00012207031 0 -0.00012207031 0 0 0.00012207031 -0.00016784668"
          style="font-size:302.613px;font-family:ISOCPEUR"
-         id="tspan41">OWNED BY DR. SREEKESH IN &#10;</tspan></tspan><tspan
+         id="tspan43">OWNED BY MR. MANILAL IN 
+</tspan></tspan><tspan
        x="0"
        y="756.53253"
-       id="tspan45"><tspan
+       id="tspan47"><tspan
          style="font-size:302.613px;font-family:ISOCPEUR"
-         id="tspan43">AYMANAM</tspan><tspan
-         dx="0 0 0 0 0 0 0 0 -0.00024414062 0 0.00012207031"
+         id="tspan45">CHATHANNOOR</tspan><tspan
+         dx="0 0 0 0 0 0 0 -0.00012207031"
          style="font-size:302.613px;font-family:ISOCPEUR"
-         id="tspan44">, KOTTAYAM&#10;</tspan></tspan></text>
+         id="tspan46">, KOLLAM</tspan></tspan></text>
   <path
      id="path48"
      d="m 14887,12284 h 4719"
@@ -1389,9 +1391,9 @@
      style="white-space:pre;inline-size:559.092"><tspan
        x="0"
        y="0"
-       id="tspan47"><tspan
+       id="tspan49"><tspan
          style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan46">-  ??</tspan></tspan></text>
+         id="tspan48">-  ??</tspan></tspan></text>
   <path
      id="path56"
      d="M 19606,8962 H 14887"
@@ -1422,9 +1424,9 @@
      style="white-space:pre;inline-size:992.508"><tspan
        x="0"
        y="0"
-       id="tspan49"><tspan
+       id="tspan51"><tspan
          style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan48">-  ??%</tspan></tspan></text>
+         id="tspan50">-  ??%</tspan></tspan></text>
   <path
      id="path62"
      d="m 14887,8306 h 4719"
@@ -1455,10 +1457,10 @@
      style="white-space:pre;inline-size:3722.77"><tspan
        x="0"
        y="0"
-       id="tspan51"><tspan
+       id="tspan54"><tspan
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00012207031 0.00017547607"
          style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan50">GROUND FLOOR         - ?? sq.m</tspan></tspan></text>
+         id="tspan52">GROUND FLOOR         - ?? sq.m</tspan></tspan></text>
   <text
      id="text67"
      xml:space="preserve"
@@ -1467,10 +1469,10 @@
      style="white-space:pre;inline-size:3654.4"><tspan
        x="0"
        y="0"
-       id="tspan54"><tspan
+       id="tspan56"><tspan
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00020980835"
          style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan52">STAIR ROOM            - ?? sq.m</tspan></tspan></text>
+         id="tspan55">STAIR ROOM            - ?? sq.m</tspan></tspan></text>
   <text
      id="text68"
      xml:space="preserve"
@@ -1479,9 +1481,9 @@
      style="white-space:pre;inline-size:3864.08"><tspan
        x="0"
        y="0"
-       id="tspan56"><tspan
+       id="tspan58"><tspan
          style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan55">TOTAL BUILT-UP AREA - ?? sq.m</tspan></tspan></text>
+         id="tspan57">TOTAL BUILT-UP AREA - ?? sq.m</tspan></tspan></text>
   <path
      id="path70"
      d="m 15108,10790 h 1940"
@@ -1506,9 +1508,9 @@
      style="white-space:pre;inline-size:1559.98"><tspan
        x="0"
        y="0"
-       id="tspan58"><tspan
+       id="tspan61"><tspan
          style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan57">- ?? sq.m</tspan></tspan></text>
+         id="tspan60">- ?? sq.m</tspan></tspan></text>
   <path
      id="path74"
      d="m 15108,10324 h 1075"
@@ -1533,10 +1535,10 @@
      style="white-space:pre;inline-size:4008.58"><tspan
        x="0"
        y="0"
-       id="tspan61"><tspan
+       id="tspan63"><tspan
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00017547607 0 0 0 0.00017547607"
          style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan60">GROUND FLOOR AREA      - ?? sq.m</tspan></tspan></text>
+         id="tspan62">GROUND FLOOR AREA      - ?? sq.m</tspan></tspan></text>
   <text
      id="text77"
      xml:space="preserve"
@@ -1545,10 +1547,10 @@
      style="white-space:pre;inline-size:4079.08"><tspan
        x="0"
        y="0"
-       id="tspan63"><tspan
+       id="tspan66"><tspan
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00012207031 0.0001449585 0 0 0 0 0 0.00017547607"
          style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan62">STAIR ROOM FLOOR AREA - ?? sq.m</tspan></tspan></text>
+         id="tspan64">STAIR ROOM FLOOR AREA - ?? sq.m</tspan></tspan></text>
   <text
      id="text78"
      xml:space="preserve"
@@ -1557,10 +1559,10 @@
      style="white-space:pre;inline-size:4034.01"><tspan
        x="0"
        y="0"
-       id="tspan66"><tspan
+       id="tspan68"><tspan
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00017547607"
          style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan64">TOTAL FLOOR AREA       - ?? sq.m</tspan></tspan></text>
+         id="tspan67">TOTAL FLOOR AREA       - ?? sq.m</tspan></tspan></text>
   <path
      id="path80"
      d="m 14887,5794 h 4719"
@@ -1575,9 +1577,9 @@
      style="white-space:pre;inline-size:2912.54"><tspan
        x="0"
        y="0"
-       id="tspan68"><tspan
+       id="tspan70"><tspan
          style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan67">DIMENSIONS IN METERS.</tspan></tspan></text>
+         id="tspan69">DIMENSIONS IN METERS.</tspan></tspan></text>
   <text
      id="text82"
      xml:space="preserve"
@@ -1586,10 +1588,10 @@
      style="white-space:pre;inline-size:4607.94"><tspan
        x="0"
        y="0"
-       id="tspan70"><tspan
+       id="tspan73"><tspan
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0001449585 0 0 0 0 0 0.00010681152"
          style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan69">SHEET SIZE : ISO-A0 (1189mm x 841mm)</tspan></tspan></text>
+         id="tspan72">SHEET SIZE : ISO-A0 (1189mm x 841mm)</tspan></tspan></text>
   <text
      id="text83"
      xml:space="preserve"
@@ -1791,9 +1793,9 @@
      style="white-space:pre;inline-size:1870.84"><tspan
        x="0"
        y="193.63048"
-       id="tspan73"><tspan
+       id="tspan76"><tspan
          style="font-size:216.533px;font-family:ISOCPEUR"
-         id="tspan72">27-03-2025</tspan></tspan></text>
+         id="tspan74">27-03-2025</tspan></tspan></text>
   <text
      id="text149"
      xml:space="preserve"
@@ -1810,10 +1812,10 @@
      transform="matrix(0.02116667,0,0,0.02116667,1134.4724,805.33292)"
      clip-path="url(#clipPath151)"><tspan
        style="font-variant:normal;font-weight:normal;font-size:216.533px;font-family:ISOCPEUR;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       x="0 111.73103 223.46205 321.11844 446.70758 572.29669 669.95312 795.54224 921.13141 1046.7206"
-       y="0"
        sodipodi:role="line"
-       id="tspan150">DD-MM-YYYY</tspan></text>
+       id="tspan150"
+       x="0"
+       y="0">{{LastRevisionTime}}</tspan></text>
   <text
      id="text151"
      xml:space="preserve"

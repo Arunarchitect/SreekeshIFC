@@ -51,8 +51,10 @@ text.GRID,tspan.GRID{font-size:8.25px}
 .material-crosshatch1{fill:url(#crosshatch1)}
 .material-crosshatch2{fill:url(#crosshatch2)}
 .material-crosshatch3{fill:url(#crosshatch3)}
-.material-brick{fill:url(#brick)}
-.material-brick2{fill:url(#brick2)}
+.material-brick { fill: url(#brick); fill-opacity: 0.1; }
+.material-bathroomtile{fill:none;stroke:rgb(0, 0, 0);stroke-width:0.01}
+.material-rcc{fill:none;stroke:rgb(0, 0, 0);stroke-width:0.2}
+.material-brick2{fill:url(#brick2); ; fill-opacity: 0.1; }
 .material-randomrubble{fill:url(#randomrubble)}
 .material-earth{fill:url(#earth)}
 .material-glass{fill:url(#glass)}

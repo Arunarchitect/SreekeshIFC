@@ -78,7 +78,6 @@ g[class*="IfcDistributionChamberElement"][class*="ftWCS"] {
 }
 
 .IfcSanitaryTerminal{fill: white; stroke: rgb(0, 4, 255); stroke-width: 0.1;}
-.IfcWasteTerminal{fill: white; stroke: rgb(31, 129, 4); stroke-width: 0.3;}
 .IfcTank{fill: white; stroke: rgb(181, 5, 5); stroke-width: 0.3;}
 
 .IfcCovering{fill:white;stroke:black;stroke-width:0.08;opacity:0.5}
@@ -88,3 +87,10 @@ g[class*="IfcDistributionChamberElement"][class*="ftWCS"] {
 .PredefinedType-STEEL{fill:url(#steel);stroke:black;stroke-width:0.08}
 .PredefinedType-CONCRETE{fill:url(#concrete);stroke:black;stroke-width:0.08}
 .PredefinedType-PLASTERBOARD{fill:url(#sand);stroke:black;stroke-width:0.08}
+
+
+
+.material-leechpit { fill: none; stroke: rgb(128, 96, 0); stroke-width: 0.5; }
+.material-greypit { fill: none; stroke: rgb(64, 64, 64); stroke-width: 0.5; }
+.material-greasepit { fill: none; stroke: rgb(0, 100, 0); stroke-width: 0.5; }
+.material-rainpit { fill: none; stroke: rgb(0, 76, 153); stroke-width: 0.5; }
