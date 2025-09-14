@@ -87,3 +87,4 @@ text.GRID, tspan.GRID { /* 5mm */ font-size: 8.25px; }
 .PredefinedType-STEEL { fill: url(#steel); stroke: black; stroke-width: 0.5; }
 .PredefinedType-CONCRETE { fill: url(#concrete); stroke: black; stroke-width: 0.5; }
 .PredefinedType-PLASTERBOARD { fill: url(#sand); stroke: black; stroke-width: 0.25; }
+.IfcReinforcingBar { fill: none; stroke: rgb(255, 0, 0); stroke-linecap: 'round'; stroke-width: 2; }

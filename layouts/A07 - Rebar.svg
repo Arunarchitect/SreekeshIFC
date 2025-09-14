@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" id="root" version="1.1" width="1189.0mm" height="841.0mm" viewBox="0 0 1189.0 841.0" ns1:docname="A07 - Rebar.svg" ns2:version="1.3.2 (091e20e, 2023-11-25, custom)">
+  <defs id="defs5" />
+  <ns1:namedview id="namedview5" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" ns2:document-units="mm" ns2:zoom="0.28448807" ns2:cx="1817.2994" ns2:cy="2254.9276" ns2:window-width="1920" ns2:window-height="1009" ns2:window-x="-8" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="root" />
+  <g data-type="titleblock" id="g1">
+    <image xlink:href="titleblocks/A0.svg" x="0" y="0" width="1189.0" height="841.0" id="image1" />
+  </g>
+  <g data-type="drawing" data-id="460694" data-drawing="0C70BuOsrE1fd3aN2Ai_14" id="g5" transform="translate(70,-680.22589)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CPlint%20rebar%20base.svg" x="30" y="880.22589" width="600" height="400.11295" id="image4" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="30" y="1285.3387" width="50.222462" height="10" id="image5" />
+  </g>
+  <g data-type="drawing" data-id="460693" data-drawing="3sKaDWdfH9lAT5$GbHmHnq" id="g3" transform="translate(70,-255.11295)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CPlinth%20Rebar.svg" x="30" y="455.11295" width="600" height="400.11295" id="image2" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="30" y="860.22589" width="50.222462" height="10" id="image3" />
+  </g>
+</svg>
