@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Switches",
+        "mode": "collision",
+        "a": [
+            {
+                "file": "D:\\ABIN\\BIM\\SreekeshIFC\\Sreekesh.ifc",
+                "selector": "IfcSwitchingDevice",
+                "mode": "i"
+            }
+        ],
+        "b": [
+            {
+                "file": "D:\\ABIN\\BIM\\SreekeshIFC\\Sreekesh.ifc",
+                "selector": "IfcSwitchingDevice",
+                "mode": "i"
+            }
+        ],
+        "allow_touching": true
+    },
+    {
+        "name": "DistributionBoard",
+        "mode": "collision",
+        "a": [
+            {
+                "file": "D:\\ABIN\\BIM\\SreekeshIFC\\Sreekesh.ifc",
+                "selector": "IfcElectricDistributionBoard",
+                "mode": "i"
+            }
+        ],
+        "b": [
+            {
+                "file": "D:\\ABIN\\BIM\\SreekeshIFC\\Sreekesh.ifc",
+                "selector": "IfcElectricDistributionBoard",
+                "mode": "i"
+            }
+        ],
+        "allow_touching": true
+    },
+    {
+        "name": "JunctionBoxes",
+        "mode": "clearance",
+        "a": [
+            {
+                "file": "D:\\ABIN\\BIM\\SreekeshIFC\\Sreekesh.ifc",
+                "selector": "IfcJunctionBox",
+                "mode": "i"
+            }
+        ],
+        "b": [
+            {
+                "file": "D:\\ABIN\\BIM\\SreekeshIFC\\Sreekesh.ifc",
+                "selector": "IfcJunctionBox",
+                "mode": "i"
+            }
+        ],
+        "clearance": 0.009999999776482582,
+        "check_all": true
+    },
+    {
+        "name": "Conduits",
+        "mode": "collision",
+        "a": [
+            {
+                "file": "D:\\ABIN\\BIM\\SreekeshIFC\\Sreekesh.ifc",
+                "selector": "IfcPipeSegment, location=\"Electrical\"",
+                "mode": "i"
+            }
+        ],
+        "b": [
+            {
+                "file": "D:\\ABIN\\BIM\\SreekeshIFC\\Sreekesh.ifc",
+                "selector": "IfcPipeSegment, location=\"Electrical\"",
+                "mode": "i"
+            }
+        ],
+        "allow_touching": false
+    }
+]
