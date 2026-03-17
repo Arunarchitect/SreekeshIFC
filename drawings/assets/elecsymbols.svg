@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="elecsymbols.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="29.981327"
+     inkscape:cx="1.3174867"
+     inkscape:cy="1.9845686"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g17" />
+  <g
+     id="rectangle-tag"
+     style="display:none">
+    <rect
+       x="-6"
+       y="-2.5"
+       width="12"
+       height="5"
+       fill="#ffffff"
+       stroke="#000000"
+       style="stroke-width:0.25"
+       id="rect1" />
+  </g>
+  <g
+     id="triangle-tag"
+     style="display:none">
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.25"
+       d="M 3.1409425e-7,-7.1069207 5.7650623,2.8784603 l -11.5301246,-6e-7 z"
+       id="path1" />
+  </g>
+  <g
+     id="hexagon-tag"
+     style="display:none">
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.25"
+       d="m 0.0161133,-6.0583333 5.2339915,3.8366023 -2.031433,6.1633977 c 0,0 -6.4894866,-0.027414 -6.4894866,-0.027414 l -1.97929,-6.1803395 5.2662181,-3.7922467"
+       id="path2" />
+  </g>
+  <g
+     id="capsule-tag"
+     style="display:none">
+    <rect
+       x="-6"
+       y="-2.5"
+       width="12"
+       height="5"
+       rx="2.5"
+       ry="2.5"
+       fill="#ffffff"
+       stroke="#000000"
+       style="stroke-width:0.25"
+       id="rect2" />
+  </g>
+  <g
+     id="circle-tag"
+     style="display:none">
+    <circle
+       r="5"
+       fill="#ffffff"
+       stroke="#000000"
+       style="stroke-width:0.25"
+       id="circle2"
+       cx="0"
+       cy="0" />
+  </g>
+  <g
+     id="window-tag"
+     style="display:none">
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.25"
+       d="m 0.0161133,-6.0583333 5.2339915,3.8366023 -2.031433,6.1633977 c 0,0 -6.4894866,-0.027414 -6.4894866,-0.027414 l -1.97929,-6.1803395 5.2662181,-3.7922467"
+       id="path4" />
+  </g>
+  <g
+     id="space-tag"
+     style="display:none">
+    <text
+       y="-5"
+       class="large"
+       text-anchor="middle"
+       dominant-baseline="middle"
+       data-type="text-template"
+       id="text5" />
+    <rect
+       x="-6"
+       y="-2.5"
+       width="12"
+       height="5"
+       fill="#ffffff"
+       stroke="#000000"
+       style="stroke-width:0.25"
+       id="rect5" />
+    <text
+       class="regular"
+       text-anchor="middle"
+       dominant-baseline="middle"
+       data-type="text-template"
+       id="text6" />
+    <text
+       y="5"
+       class="regular"
+       text-anchor="middle"
+       dominant-baseline="middle"
+       data-type="text-template"
+       id="text7" />
+  </g>
+  <g
+     id="elevation-arrow"
+     style="display:none">
+    <path
+       style="fill:#000000"
+       d="M -7.07106,0 0,-7.07106 7.07106,0"
+       id="path7" />
+  </g>
+  <g
+     id="elevation-tag"
+     style="display:none">
+    <circle
+       r="5"
+       fill="#ffffff"
+       stroke="#000000"
+       style="stroke-width:0.25"
+       id="circle7"
+       cx="0"
+       cy="0" />
+    <line
+       x1="-5"
+       y1="0"
+       x2="5"
+       y2="0"
+       style="stroke:#000000;stroke-width:0.25"
+       id="line7" />
+  </g>
+  <g
+     id="section-arrow"
+     style="display:none">
+    <path
+       style="fill:#000000"
+       d="M -7.07106,0 0,-7.07106 7.07106,0"
+       id="path8" />
+  </g>
+  <g
+     id="section-tag"
+     style="display:none">
+    <circle
+       r="5"
+       fill="#ffffff"
+       stroke="#000000"
+       style="stroke-width:0.25"
+       id="circle8"
+       cx="0"
+       cy="0" />
+    <line
+       x1="-5"
+       y1="0"
+       x2="5"
+       y2="0"
+       style="stroke:#000000;stroke-width:0.25"
+       id="line8" />
+  </g>
+  <g
+     id="dot"
+     style="display:none">
+    <circle
+       r="1"
+       fill="#000000"
+       stroke="#000000"
+       style="stroke-width:0.25"
+       id="circle9"
+       cx="0"
+       cy="0" />
+  </g>
+  <g
+     id="setout-tag"
+     style="display:none">
+    <circle
+       fill="#ffffff"
+       stroke="#000000"
+       r="2.5"
+       style="stroke-width:0.5"
+       id="circle10"
+       cx="0"
+       cy="0" />
+    <path
+       d="M 0,0 H -2.5 A 2.5,2.5 0 0 1 0,-2.5 Z"
+       fill="#000000"
+       id="path10" />
+    <path
+       d="M 0,0 H 2.5 A 2.5,2.5 0 0 1 0,2.5 Z"
+       fill="#000000"
+       id="path11" />
+    <text
+       x="3"
+       y="-8"
+       class="regular"
+       text-anchor="start"
+       dominant-baseline="auto"
+       data-type="text-template"
+       id="text11" />
+    <text
+       x="3"
+       y="-4"
+       class="regular"
+       text-anchor="start"
+       dominant-baseline="auto"
+       data-type="text-template"
+       id="text12" />
+  </g>
+  <g
+     id="setout-point"
+     style="display:none">
+    <circle
+       fill="#ffffff"
+       stroke="#000000"
+       r="2.5"
+       style="stroke-width:0.5"
+       id="circle12"
+       cx="0"
+       cy="0" />
+    <path
+       d="M 0,0 H -2.5 A 2.5,2.5 0 0 1 0,-2.5 Z"
+       fill="#000000"
+       id="path12" />
+    <path
+       d="M 0,0 H 2.5 A 2.5,2.5 0 0 1 0,2.5 Z"
+       fill="#000000"
+       id="path13" />
+  </g>
+  <g
+     id="control-point"
+     style="display:none">
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5"
+       d="M 2.286165,1.4798666 H -1.0000316e-7 -2.2861651 L -1.1430826,-0.5000101 -1.0000316e-7,-2.479888 1.1430827,-0.5000101 Z"
+       id="path14" />
+    <circle
+       r="0.5"
+       fill="#000000"
+       stroke="#000000"
+       style="stroke-width:0.25"
+       id="circle14"
+       cx="0"
+       cy="0" />
+  </g>
+  <g
+     id="traverse-point"
+     style="display:none">
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5"
+       d="M -2,-2 2,2 M -2,2 2,-2"
+       id="path15" />
+  </g>
+  <g
+     id="spot-elevation"
+     style="display:none">
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.5"
+       d="M 0,-2 V 2 M -2,0 h 4"
+       id="path16" />
+  </g>
+  <g
+     id="door-tag">
+    <circle
+       r="5"
+       fill="white"
+       stroke="black"
+       style="stroke-width: 0.25;"
+       id="circle3" />
+    <text
+       y="-1.75"
+       class="regular"
+       text-anchor="middle"
+       dominant-baseline="middle"
+       data-type="text-template"
+       id="text3" />
+    <line
+       x1="-5"
+       x2="5"
+       style="stroke: black; stroke-width: 0.25;"
+       id="line3" />
+    <text
+       y="2.5"
+       class="regular"
+       text-anchor="middle"
+       dominant-baseline="middle"
+       data-type="text-template"
+       id="text4" />
+  </g>
+  <g
+     id="elec"
+     inkscape:label="elec">
+    <circle
+       r="2.9291303"
+       fill="#ffffff"
+       stroke="#000000"
+       style="stroke-width:0.3;stroke-dasharray:none"
+       id="circle16"
+       cx="0"
+       cy="0" />
+    <text
+       x="3"
+       class="regular"
+       text-anchor="start"
+       dominant-baseline="middle"
+       data-type="text-template"
+       id="text16" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path17"
+       inkscape:flatsided="false"
+       sodipodi:sides="3"
+       sodipodi:cx="-1.6037736"
+       sodipodi:cy="-1.4504718"
+       sodipodi:r1="1.6126368"
+       sodipodi:r2="0.8063184"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.5707963"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -0.20718916,-0.64415335 -1.39658444,-1e-8 -1.3965844,0 0.6982922,-1.20947754 0.6982922,-1.2094777 0.69829222,1.2094776 z"
+       inkscape:transform-center-y="-0.53795823"
+       transform="matrix(1.3343567,0,0,1.3343567,2.1372289,2.0025862)" />
+  </g>
+</svg>
