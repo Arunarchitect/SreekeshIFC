@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="11.042399999999999mm" id="root" version="1.1" viewBox="0 0 72.54088 11.042399999999999" width="72.54088mm">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="69.81799999999998mm" id="root" version="1.1" viewBox="0 0 171.25035999999997 69.81799999999998" width="171.25035999999997mm">
   <defs>
     <style type="text/css"><![CDATA[/*
  * Bonsai - OpenBIM Blender Add-on
@@ -55,14 +55,92 @@ text, tspan { /* 2.5mm */ fill: black; stroke: none; font-family: 'OpenGost Type
   </defs>
   <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="1"/>
   <text class="schedule" dominant-baseline="baseline" font-size="4.13" font-weight="bold" text-anchor="start" x="2" y="4.521199999999999">Mark</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="18.88998" x="12.66114" y="1"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" font-weight="bold" text-anchor="start" x="13.66114" y="4.521199999999999">Make</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="39.98976" x="31.55112" y="1"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" font-weight="bold" text-anchor="start" x="32.55112" y="4.521199999999999">Description</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="117.59946" x="12.66114" y="1"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" font-weight="bold" text-anchor="start" x="13.66114" y="4.521199999999999">Description</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="39.98976" x="130.26059999999998" y="1"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" font-weight="bold" text-anchor="start" x="131.26059999999998" y="4.521199999999999">Make</text>
   <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="5.521199999999999"/>
   <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="9.042399999999999">#01</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="18.88998" x="12.66114" y="5.521199999999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="9.042399999999999">FABER</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="39.98976" x="31.55112" y="5.521199999999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="32.55112" y="9.042399999999999">AFF Stove testweewew</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="117.59946" x="12.66114" y="5.521199999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="9.042399999999999">100cm AFF with 6AMPS SOCKET and SWITCH on TOP at SAME level</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="39.98976" x="130.26059999999998" y="5.521199999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="131.26059999999998" y="9.042399999999999">FABER</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="10.042399999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="13.563599999999997">#02</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="117.59946" x="12.66114" y="10.042399999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="13.563599999999997">180cm AFF with Power socket</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="39.98976" x="130.26059999999998" y="10.042399999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="131.26059999999998" y="13.563599999999997">LG</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="14.563599999999997"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="18.084799999999998">#03</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="117.59946" x="12.66114" y="14.563599999999997"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="18.084799999999998">Ceiling Level Fixing with anchor bolt.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="39.98976" x="130.26059999999998" y="14.563599999999997"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="131.26059999999998" y="18.084799999999998">Havels</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="19.084799999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="22.605999999999998">#03</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="117.59946" x="12.66114" y="19.084799999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="22.605999999999998">Ceiling Level Fixing with anchor bolt.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="39.98976" x="130.26059999999998" y="19.084799999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="131.26059999999998" y="22.605999999999998">Havels</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="23.605999999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="27.1272">#03</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="117.59946" x="12.66114" y="23.605999999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="27.1272">Ceiling Level Fixing with anchor bolt.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="39.98976" x="130.26059999999998" y="23.605999999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="131.26059999999998" y="27.1272">Havels</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="28.1272"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="31.648399999999995">#03</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="117.59946" x="12.66114" y="28.1272"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="31.648399999999995">Ceiling Level Fixing with anchor bolt.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="39.98976" x="130.26059999999998" y="28.1272"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="131.26059999999998" y="31.648399999999995">Havels</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="32.648399999999995"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="36.169599999999996">#03</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="117.59946" x="12.66114" y="32.648399999999995"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="36.169599999999996">Ceiling Level Fixing with anchor bolt.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="39.98976" x="130.26059999999998" y="32.648399999999995"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="131.26059999999998" y="36.169599999999996">Havels</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="37.169599999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="40.690799999999996">#03</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="117.59946" x="12.66114" y="37.169599999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="40.690799999999996">Ceiling Level Fixing with anchor bolt.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="39.98976" x="130.26059999999998" y="37.169599999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="131.26059999999998" y="40.690799999999996">Havels</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="41.690799999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="45.211999999999996">#03</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="117.59946" x="12.66114" y="41.690799999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="45.211999999999996">Ceiling Level Fixing with anchor bolt.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="39.98976" x="130.26059999999998" y="41.690799999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="131.26059999999998" y="45.211999999999996">Havels</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="46.211999999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="49.7332">#03</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="117.59946" x="12.66114" y="46.211999999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="49.7332">Ceiling Level Fixing with anchor bolt.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="39.98976" x="130.26059999999998" y="46.211999999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="131.26059999999998" y="49.7332">Havels</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="50.7332"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="54.2544">#03</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="117.59946" x="12.66114" y="50.7332"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="54.2544">Ceiling Level Fixing with anchor bolt.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="39.98976" x="130.26059999999998" y="50.7332"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="131.26059999999998" y="54.2544">Havels</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="55.2544"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="58.7756">#03</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="117.59946" x="12.66114" y="55.2544"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="58.7756">Ceiling Level Fixing with anchor bolt.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="39.98976" x="130.26059999999998" y="55.2544"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="131.26059999999998" y="58.7756">Havels</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="59.7756"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="63.29679999999999">#03</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="117.59946" x="12.66114" y="59.7756"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="63.29679999999999">Ceiling Level Fixing with anchor bolt.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="39.98976" x="130.26059999999998" y="59.7756"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="131.26059999999998" y="63.29679999999999">Havels</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="64.29679999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="67.81799999999998">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="117.59946" x="12.66114" y="64.29679999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="67.81799999999998">Ceiling Level Fixing with anchor bolt.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="39.98976" x="130.26059999999998" y="64.29679999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="131.26059999999998" y="67.81799999999998">N/A</text>
 </svg>
