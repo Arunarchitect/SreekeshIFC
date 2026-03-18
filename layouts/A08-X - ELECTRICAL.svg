@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" id="root" version="1.1" width="1189.0mm" height="841.0mm" viewBox="0 0 1189.0 841.0" ns1:docname="A08-X - ELECTRICAL.svg" ns2:version="1.4.2 (f4327f4, 2025-05-13)">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" id="root" version="1.1" width="1189.0mm" height="841.0mm" viewBox="0 0 1189.0 841.0" ns1:docname="A08-X - ELECTRICAL.svg" ns2:version="1.4.2 (f4327f4, 2025-05-13)">
   <defs id="defs5" />
   <ns1:namedview id="namedview5" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" ns2:document-units="mm" ns2:zoom="0.1719614" ns2:cx="1683.5173" ns2:cy="2352.272" ns2:window-width="1920" ns2:window-height="991" ns2:window-x="-9" ns2:window-y="-9" ns2:window-maximized="1" ns2:current-layer="root" />
   <g data-type="titleblock" ns1:insensitive="true" id="g1">
-    <image xlink:href="titleblocks/A0.svg" x="0" y="0" width="1189.0" height="841.0" id="image1" />
+    <image ns3:href="titleblocks/A0.svg" x="0" y="0" width="1189.0" height="841.0" id="image1" />
   </g>
   <g data-type="drawing" data-id="486648" data-drawing="14WRPqzf9EfB2Y1pWU12Gu" id="g3" transform="translate(-144.63032,-369.26891)">
-    <image data-type="foreground" xlink:href="..%5Cdrawings%5CEQUIPMENT-ELECTRICAL.svg" x="246.6649932861328" y="246.6649932861328" width="866.67" height="866.67" id="image2" />
-    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="246.6649932861328" y="1118.3350067138672" width="50.222462" height="10" id="image3" />
+    <image data-type="foreground" ns3:href="..%5Cdrawings%5CEQUIPMENT-ELECTRICAL.svg" x="246.6649932861328" y="246.6649932861328" width="866.67" height="866.67" id="image2" />
+    <image data-type="view-title" ns3:href="assets%5Cview-title.svg" x="246.6649932861328" y="1118.3350067138672" width="50.222462" height="10" id="image3" />
   </g>
-  <g data-id="487894" data-type="schedule" data-document="486655"><image data-type="content" xlink:href="..\ODS\Elec.svg" x="950.0" y="420.0" width="181.02173999999997" height="15.563599999999997" /><image data-type="view-title" xlink:href="assets\view-title.svg" x="950.0" y="440.5636" width="50.222462" height="10.0" /></g></svg>
+  <g data-id="487894" data-type="schedule" data-document="486655"><image data-type="content" ns3:href="..\ODS\Elec.svg" x="950.0" y="420.0" width="181.02173999999997" height="15.563599999999997" /><image data-type="view-title" ns3:href="assets\view-title.svg" x="950.0" y="440.5636" width="50.222462" height="10.0" /></g></svg>
