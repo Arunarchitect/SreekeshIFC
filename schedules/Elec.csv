@@ -1,15 +1,7 @@
-"GlobalId","Mark","Description","Make"
-"37t8ZNQPDAMO52fOVPmJXX","#01","100cm AFF with 6AMPS SOCKET and SWITCH on TOP at SAME level","FABER"
-"1p4CeRyr5Ahfxe1LVhmrOv","#02","180cm AFF with Power socket","LG"
-"2O3VyC8nr9CBuCtWUQHZp5","#03","Ceiling Level Fixing with anchor bolt.","Havels"
-"0TwLV7G85C4hQtmHHBKkJK","#03","Ceiling Level Fixing with anchor bolt.","Havels"
-"3M0sYf7yHFZP73_U11E9eB","#03","Ceiling Level Fixing with anchor bolt.","Havels"
-"3gzabP_M16_91DBu6w9cTq","#03","Ceiling Level Fixing with anchor bolt.","Havels"
-"2h8FTMC3nCZQB_cJQJKPlH","#03","Ceiling Level Fixing with anchor bolt.","Havels"
-"261xBy$hn0Iw7Yovqw1aLD","#03","Ceiling Level Fixing with anchor bolt.","Havels"
-"2as463_JH5SfOhahKMSKAg","#03","Ceiling Level Fixing with anchor bolt.","Havels"
-"2KiZBqQY99nu7woU7236Ju","#03","Ceiling Level Fixing with anchor bolt.","Havels"
-"35xtP8uvH8OPhsxy5YAf_p","#03","Ceiling Level Fixing with anchor bolt.","Havels"
-"1aiA0X_5D9iew0$BaE7J73","#03","Ceiling Level Fixing with anchor bolt.","Havels"
-"0z_uJI9O96rOidhYmSieAf","#03","Ceiling Level Fixing with anchor bolt.","Havels"
-"2dQDvdWjPDlRU0AqIunUMq","N/A","Ceiling Level Fixing with anchor bolt.","N/A"
+Mark,Equipment,Description,Make
+#02A,LG,180cm AFF with Power socket,LG
+#01,Faber Stove,100cm AFF with 6AMPS SOCKET and SWITCH on TOP at SAME level,FABER
+#03,Faber 90cm W Electric Chimney,Ceiling Level Fixing with anchor bolt.,N/A
+RE,Dishwasher,50cm AFF with Power socket ,BOSCH
+#0X,BLDC_CFAN,Ceiling Level Fixing with anchor bolt.,Havels
+#08,50inch TV,AFF 120 CM ,N/A
