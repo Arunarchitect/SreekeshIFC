@@ -77,7 +77,7 @@ text, tspan {
 .IfcElectricAppliance {
     fill: none;
     stroke: rgb(124, 124, 123);
-    stroke-opacity: .1;
+    stroke-opacity: 0.9;
     stroke-linecap: round;
     stroke-linejoin: round;
     stroke-width: 0.25;
@@ -270,3 +270,13 @@ text.GRID, tspan.GRID { /* 5mm */ font-size: 4px; }
     stroke-linejoin: round;
     stroke-width: 0.25;
 } 
+
+
+.IfcLightFixture.typeName-LEDStrip{
+    fill: none;
+    stroke: rgb(25, 195, 7);
+    stroke-opacity: 0.8;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 0.25;
+}
