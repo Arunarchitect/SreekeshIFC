@@ -688,8 +688,8 @@
             "scene.render.ppm_factor": 72.0,
             "scene.render.preview_pixel_size": "AUTO",
             "scene.render.resolution_percentage": 100,
-            "scene.render.resolution_x": 3838,
-            "scene.render.resolution_y": 2362,
+            "scene.render.resolution_x": 2657,
+            "scene.render.resolution_y": 1635,
             "scene.render.sequencer_gl_preview": "SOLID",
             "scene.render.simplify_child_particles": 1.0,
             "scene.render.simplify_child_particles_render": 1.0,
@@ -748,12 +748,12 @@
             "scene.view_settings.use_curve_mapping": false,
             "scene.view_settings.use_white_balance": false,
             "scene.view_settings.view_transform": "Standard",
-            "scene.view_settings.white_balance_temperature": 6500.21826171875,
-            "scene.view_settings.white_balance_tint": 9.999589920043945,
+            "scene.view_settings.white_balance_temperature": 6500.23046875,
+            "scene.view_settings.white_balance_tint": 9.999642372131348,
             "scene.view_settings.white_balance_whitepoint": [
-                0.999286949634552,
-                1.0003505945205688,
-                0.9986141920089722
+                0.9992859959602356,
+                1.0003507137298584,
+                0.9986162185668945
             ],
             "scene.display.shading.aov_name": "",
             "scene.display.shading.background_color": [
@@ -954,7 +954,7 @@
             "space.shading.studio_light": "forest.exr",
             "space.shading.studiolight_background_alpha": 0.0,
             "space.shading.studiolight_background_blur": 0.5090910196304321,
-            "space.shading.studiolight_intensity": 0.5945454239845276,
+            "space.shading.studiolight_intensity": 1.0945453643798828,
             "space.shading.studiolight_rotate_z": 0.0,
             "space.shading.type": "MATERIAL",
             "space.shading.use_compositor": "DISABLED",
