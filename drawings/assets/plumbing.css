@@ -1,5 +1,5 @@
 *{stroke-linecap:round;stroke-linejoin:round}
-text,tspan{fill:rgb(255,0,0);stroke:none;font-family:'OpenGost Type B TT','DejaVu Sans Condensed','Liberation Sans','Arial Narrow','Arial';font-size:3px}
+text,tspan{fill:rgb(255,0,0);stroke:none;font-family:'OpenGost Type B TT','DejaVu Sans Condensed','Liberation Sans','Arial Narrow','Arial';font-size:6px}
 .cut{fill:black;stroke:black;stroke-linecap:round;stroke-width:0.08;fill-rule:evenodd}
 .projection{fill:white;stroke:black;stroke-linecap:round;stroke-width:0.08}
 .surface{stroke:none;fill:#fff;fill-rule:evenodd}
