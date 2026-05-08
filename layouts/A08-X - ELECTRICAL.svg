@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" id="root" version="1.1" width="1189.0mm" height="841.0mm" viewBox="0 0 1189.0 841.0" ns1:docname="A08-X - ELECTRICAL.svg" ns2:version="1.4.2 (f4327f4, 2025-05-13)">
   <defs id="defs5" />
-  <ns1:namedview id="namedview5" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" ns2:document-units="mm" ns2:zoom="0.24319014" ns2:cx="1122.5784" ns2:cy="3279.3271" ns2:window-width="1920" ns2:window-height="1017" ns2:window-x="-8" ns2:window-y="-8" ns2:window-maximized="1" ns2:current-layer="root" />
+  <ns1:namedview id="namedview5" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" ns2:document-units="mm" ns2:zoom="0.97276056" ns2:cx="1907.4581" ns2:cy="2883.0322" ns2:window-width="1920" ns2:window-height="991" ns2:window-x="-9" ns2:window-y="-9" ns2:window-maximized="1" ns2:current-layer="g5" />
   <g data-type="titleblock" ns1:insensitive="true" id="g1">
     <image xlink:href="titleblocks/A0.svg" x="0" y="0" width="1189.0" height="841.0" id="image1" />
   </g>
@@ -8,8 +8,8 @@
     <image data-type="foreground" xlink:href="..%5Cdrawings%5CEQUIPMENT-ELECTRICAL.svg" x="246.66499" y="246.66499" width="866.66998" height="866.66998" id="image2" />
     <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="266.66705" y="995.2453" width="50.222462" height="10" id="image3" />
   </g>
-  <g data-id="490079" data-type="schedule" data-document="486655" id="g5" transform="translate(502.64168,-463.4748)">
-    <image data-type="content" xlink:href="..%5CODS%5CElec.svg" x="30" y="1123.335" width="228.53" height="83.43" id="image4" />
-    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="30" y="1211.765" width="50.222462" height="10" id="image5" />
+  <g data-id="545465" data-type="schedule" data-document="486655" id="g5" transform="translate(403.6365,-456.94698)">
+    <image data-type="content" xlink:href="..%5CODS%5CElec.svg" x="28.368046" y="1131.4948" width="228.52991" height="106.05364" id="image4" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="58.831177" y="1287.947" width="50.222462" height="10" id="image5" />
   </g>
 </svg>
