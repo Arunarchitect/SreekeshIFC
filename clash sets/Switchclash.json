@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Switches",
+        "mode": "collision",
+        "a": [
+            {
+                "file": "E:\\Er.SunilKumar\\IFC Final\\SreekeshIFC\\Sreekesh.ifc",
+                "selector": "IfcSwitchingDevice",
+                "mode": "i"
+            }
+        ],
+        "b": [
+            {
+                "file": "E:\\Er.SunilKumar\\IFC Final\\SreekeshIFC\\Sreekesh.ifc",
+                "selector": "IfcSwitchingDevice",
+                "mode": "i"
+            }
+        ],
+        "allow_touching": true
+    }
+]
