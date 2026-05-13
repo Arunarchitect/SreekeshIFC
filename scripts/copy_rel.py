@@ -1,3 +1,13 @@
+# Your script is working like this:
+# File A	Current IFC opened in Bonsai/Blender
+# File B	External IFC (Sreekesh_new.ifc)
+# Goal	Copy TEXT_LEADER → Product relations from B into A
+
+# This line in your output means you found a GUID with no target relationship in File B:
+# WARNING: No target product relation found in File B for: GUID
+
+
+
 import bonsai.tool as tool
 import ifcopenshell
 import ifcopenshell.guid
