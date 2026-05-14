@@ -1,94 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   id="root"
-   version="1.1"
-   width="420.0mm"
-   height="297.0mm"
-   viewBox="0 0 420.0 297.0"
-   sodipodi:docname="18 - Bed1 Toilet.svg"
-   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs5" />
-  <sodipodi:namedview
-     id="namedview5"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     inkscape:zoom="0.34431467"
-     inkscape:cx="1125.424"
-     inkscape:cy="230.89344"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="root" />
-  <g
-     data-type="titleblock"
-     sodipodi:insensitive="true"
-     id="g1">
-    <image
-       xlink:href="titleblocks/A3.svg"
-       x="0"
-       y="0"
-       width="420.0"
-       height="297.0"
-       id="image1" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" id="root" version="1.1" width="420.0mm" height="297.0mm" viewBox="0 0 420.0 297.0" ns1:docname="18 - Bed1 Toilet.svg" ns2:version="1.4.2 (f4327f4, 2025-05-13)">
+  <defs id="defs5" />
+  <ns1:namedview id="namedview5" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" ns2:document-units="mm" ns2:zoom="0.34431467" ns2:cx="1125.424" ns2:cy="230.89344" ns2:window-width="1920" ns2:window-height="991" ns2:window-x="-9" ns2:window-y="-9" ns2:window-maximized="1" ns2:current-layer="root" />
+  <g data-type="titleblock" ns1:insensitive="true" id="g1">
+    <image xlink:href="titleblocks/A3.svg" x="0" y="0" width="420.0" height="297.0" id="image1" />
   </g>
-  <g
-     data-type="drawing"
-     data-id="563988"
-     data-drawing="25zK2gllP2FB6EvE7MFtGA"
-     id="g3"
-     transform="matrix(0.21252841,0,0,0.21252841,17.22024,23.739095)">
-    <image
-       data-type="foreground"
-       xlink:href="..%5Cdrawings%5CBed1%20Toilet.svg"
-       x="30"
-       y="30"
-       width="893.64404"
-       height="900"
-       id="image2" />
-    <image
-       data-type="view-title"
-       xlink:href="assets%5Cview-title.svg"
-       x="30"
-       y="935"
-       width="50.222462"
-       height="10"
-       id="image3" />
+  <g data-type="drawing" data-id="563988" data-drawing="25zK2gllP2FB6EvE7MFtGA" id="g3" transform="matrix(0.21252841,0,0,0.21252841,17.22024,23.739095)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CBed1%20Toilet.svg" x="30" y="30" width="893.64404" height="900" id="image2" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="30" y="935" width="50.222462" height="10" id="image3" />
   </g>
-  <g
-     data-type="drawing"
-     data-id="563989"
-     data-drawing="0cs4K_P59CGRT0ITo$n5D_"
-     id="g5"
-     transform="matrix(0.21252841,0,0,0.21252841,218.25766,-172.84952)">
-    <image
-       data-type="foreground"
-       xlink:href="..%5Cdrawings%5CBed1%20Toilet2.svg"
-       x="30"
-       y="955"
-       width="893.64404"
-       height="900"
-       id="image4" />
-    <image
-       data-type="view-title"
-       xlink:href="assets%5Cview-title.svg"
-       x="30"
-       y="1860"
-       width="50.222462"
-       height="10"
-       id="image5" />
+  <g data-type="drawing" data-id="563989" data-drawing="0cs4K_P59CGRT0ITo$n5D_" id="g5" transform="matrix(0.21252841,0,0,0.21252841,218.25766,-172.84952)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CBed1%20Toilet2.svg" x="30" y="955" width="893.64404" height="900" id="image4" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="30" y="1860" width="50.222462" height="10" id="image5" />
   </g>
 </svg>
