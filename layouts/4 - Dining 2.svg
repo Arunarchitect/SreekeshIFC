@@ -5,7 +5,7 @@
     <image xlink:href="titleblocks/A3.svg" x="0" y="0" width="420.0" height="297.0" id="image1" />
   </g>
   <g data-type="drawing" data-id="574850" data-drawing="3uzaLog0b3Ov9zJMWSM0PO" id="g3" transform="matrix(0.41111111,0,0,0.41111111,12.666667,-5.4196663)">
-    <image data-type="foreground" xlink:href="..%5Cdrawings%5CDINING%20ROOM%202.svg" x="30" y="30.209999" width="900" height="553.82001" id="image2" />
-    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="30" y="589.02728" width="50.222462" height="10" id="image3" />
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CDINING%20ROOM%202.svg" x="30.0" y="29.99999900655651" width="900.0" height="554.24" id="image2" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="30.0" y="589.2372799934435" width="50.222462" height="10" id="image3" />
   </g>
 </svg>
