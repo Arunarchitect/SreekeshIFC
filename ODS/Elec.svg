@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="142.2232399999999mm" id="root" version="1.1" viewBox="0 0 228.5299 142.2232399999999" width="228.5299mm">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="644.0764400000015mm" id="root" version="1.1" viewBox="0 0 209.03794000000002 644.0764400000015" width="209.03794000000002mm">
   <defs>
     <style type="text/css"><![CDATA[/*
  * Bonsai - OpenBIM Blender Add-on
@@ -53,228 +53,1116 @@ text, tspan { /* 2.5mm */ fill: black; stroke: none; font-family: 'OpenGost Type
     fill: none; /* will be overriden if background color is set in .ods, or .xlsx */
 }]]></style>
   </defs>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="1"/>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="1"/>
   <text class="schedule" dominant-baseline="baseline" font-size="4.13" font-weight="bold" text-anchor="start" x="2" y="4.521199999999999">Mark</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="1"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" font-weight="bold" text-anchor="start" x="13.66114" y="4.521199999999999">Equipment</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="1"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" font-weight="bold" text-anchor="start" x="77.1205" y="4.521199999999999">Description</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="1"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" font-weight="bold" text-anchor="start" x="205.9493" y="4.521199999999999">Make</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="5.521199999999999"/>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="1"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" font-weight="bold" text-anchor="start" x="18.11884" y="4.521199999999999">Description</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="1"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" font-weight="bold" text-anchor="start" x="144.42796" y="4.521199999999999">Equipment</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="1"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" font-weight="bold" text-anchor="start" x="186.45734000000002" y="4.521199999999999">Make</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="5.521199999999999"/>
   <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="9.042399999999999">#01</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="5.521199999999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="9.042399999999999">Faber Stove</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="5.521199999999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="9.042399999999999">100cm AFF with 6AMPS SOCKET and SWITCH on TOP at SAME level</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="5.521199999999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="9.042399999999999">FABER</text>
-  <rect class="border" height="18.15084" style="fill: #ffffff;" width="11.66114" x="1" y="10.042399999999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="27.193239999999996">#01</text>
-  <rect class="border" height="18.15084" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="10.042399999999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="27.193239999999996">Builtin_Dishwasher</text>
-  <rect class="border" height="18.15084" style="fill: #ffffff;" width="128.8288" x="76.1205" y="10.042399999999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="27.193239999999996">100cm AFF with 6AMPS SOCKET and SWITCH on TOP at SAME level</text>
-  <rect class="border" height="18.15084" style="fill: #ffffff;" width="22.5806" x="204.9493" y="10.042399999999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="27.193239999999996">BOSCH</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="28.193239999999996"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="31.714439999999996">#01</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="28.193239999999996"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="31.714439999999996">Chimney_90cm</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="28.193239999999996"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="31.714439999999996">100cm AFF with 6AMPS SOCKET and SWITCH on TOP at SAME level</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="28.193239999999996"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="31.714439999999996">FABER</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="32.714439999999996"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="36.23564">#02A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="32.714439999999996"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="36.23564">Refrigerator</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="32.714439999999996"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="36.23564">180cm AFF with Power socket</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="32.714439999999996"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="36.23564">LG </text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="37.23564"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="40.75684">#07</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="37.23564"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="40.75684">Pendant</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="37.23564"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="40.75684">AFF AT CEILING LEVEL, </text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="37.23564"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="40.75684">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="41.75684"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="45.27804">#08</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="41.75684"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="45.27804">50inch TV</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="41.75684"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="45.27804">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="41.75684"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="45.27804">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="46.27804"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="49.79924">#08</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="46.27804"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="49.79924">Treadmill</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="46.27804"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="49.79924">AFF 120 CM </text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="46.27804"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="49.79924">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="50.79924"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="54.32044">#08</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="50.79924"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="54.32044">50inch TV</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="50.79924"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="54.32044">AFF 120 CM </text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="50.79924"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="54.32044">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="55.32044"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="58.84164">#0X</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="55.32044"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="58.84164">BLDC_CFAN</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="55.32044"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="58.84164">Ceiling Level Fixing with anchor bolt.</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="55.32044"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="58.84164">Havels</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="59.84164"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="63.36283999999999">#0X</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="59.84164"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="63.36283999999999">Washing Machine</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="59.84164"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="63.36283999999999">Ceiling Level Fixing with anchor bolt.</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="59.84164"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="63.36283999999999">BOSCH</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="64.36283999999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="67.88403999999998">#L1</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="64.36283999999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="67.88403999999998">LED15W</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="64.36283999999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="67.88403999999998">AFF AT CEILING LEVEL, ON FALSE CEILING.</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="64.36283999999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="67.88403999999998">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="68.88403999999998"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="72.40523999999998">C1</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="68.88403999999998"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="72.40523999999998">chandelier</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="68.88403999999998"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="72.40523999999998">Hand the light from Ceiling</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="68.88403999999998"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="72.40523999999998">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="73.40523999999998"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="76.92643999999997">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="73.40523999999998"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="76.92643999999997">5AMP_Plug</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="73.40523999999998"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="76.92643999999997">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="73.40523999999998"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="76.92643999999997">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="77.92643999999997"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="81.44763999999996">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="77.92643999999997"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="81.44763999999996">6A 1Way Plug Switch</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="77.92643999999997"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="81.44763999999996">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="77.92643999999997"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="81.44763999999996">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="82.44763999999996"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="85.96883999999996">S1</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="82.44763999999996"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="85.96883999999996">LED Strip</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="82.44763999999996"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="85.96883999999996">UndeCabinet Strip Light</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="82.44763999999996"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="85.96883999999996">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="86.96883999999996"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="90.49003999999995">S1</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="86.96883999999996"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="90.49003999999995">LED Strip</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="86.96883999999996"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="90.49003999999995">Courtyard Strip light</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="86.96883999999996"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="90.49003999999995">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="91.49003999999995"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="95.01123999999994">S1</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="91.49003999999995"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="95.01123999999994">LED Strip</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="91.49003999999995"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="95.01123999999994">UndeCabinet Strip Light</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="91.49003999999995"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="95.01123999999994">HAVELS</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="96.01123999999994"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="99.53243999999994">T1</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="96.01123999999994"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="99.53243999999994">6A 1Way Plug Switch</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="96.01123999999994"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="99.53243999999994">Strip Light Switch_ 100cm AFF Lvl</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="96.01123999999994"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="99.53243999999994">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="100.53243999999994"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="104.05363999999993">T2</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="100.53243999999994"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="104.05363999999993">6A 1Way Plug Switch</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="100.53243999999994"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="104.05363999999993">Mixer Grinder Power Switch_ 100cm AFF Lvl</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="100.53243999999994"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="104.05363999999993">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="105.05363999999993"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="108.57483999999992">W1</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="105.05363999999993"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="108.57483999999992">Philips twilight</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="105.05363999999993"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="108.57483999999992">Wall dual light</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="105.05363999999993"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="108.57483999999992">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="109.57483999999992"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="113.09603999999992">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="109.57483999999992"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="113.09603999999992">6A 1Way Plug Switch</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="109.57483999999992"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="113.09603999999992">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="109.57483999999992"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="113.09603999999992">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="114.09603999999992"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="117.61723999999991">S1</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="114.09603999999992"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="117.61723999999991">LED Strip</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="114.09603999999992"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="117.61723999999991">UndeCabinet Strip Light</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="114.09603999999992"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="117.61723999999991">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="118.61723999999991"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="122.1384399999999">S1</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="118.61723999999991"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="122.1384399999999">LED Strip</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="118.61723999999991"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="122.1384399999999">Courtyard Strip light</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="118.61723999999991"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="122.1384399999999">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="123.1384399999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="126.6596399999999">S1</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="123.1384399999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="126.6596399999999">LED Strip</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="123.1384399999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="126.6596399999999">UndeCabinet Strip Light</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="123.1384399999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="126.6596399999999">HAVELS</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="127.6596399999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="131.1808399999999">T1</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="127.6596399999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="131.1808399999999">6A 1Way Plug Switch</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="127.6596399999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="131.1808399999999">Strip Light Switch_ 100cm AFF Lvl</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="127.6596399999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="131.1808399999999">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="132.1808399999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="135.7020399999999">T2</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="132.1808399999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="135.7020399999999">6A 1Way Plug Switch</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="132.1808399999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="135.7020399999999">Mixer Grinder Power Switch_ 100cm AFF Lvl</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="132.1808399999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="135.7020399999999">N/A</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="11.66114" x="1" y="136.7020399999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="140.2232399999999">W1</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="63.459360000000004" x="12.66114" y="136.7020399999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="13.66114" y="140.2232399999999">Philips twilight</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="128.8288" x="76.1205" y="136.7020399999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="77.1205" y="140.2232399999999">Wall dual light</text>
-  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="204.9493" y="136.7020399999999"/>
-  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="205.9493" y="140.2232399999999">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="5.521199999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="9.042399999999999">100cm AFF with 6AMPS SOCKET and SWITCH on TOP at SAME level</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="5.521199999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="9.042399999999999">Builtin_Dishwasher</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="5.521199999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="9.042399999999999">BOSCH</text>
+  <rect class="border" height="18.15084" style="fill: #ffffff;" width="16.11884" x="1" y="10.042399999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="27.193239999999996">#02A</text>
+  <rect class="border" height="18.15084" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="10.042399999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="27.193239999999996">180cm AFF with Power socket</text>
+  <rect class="border" height="18.15084" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="10.042399999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="27.193239999999996">Induction_builtin</text>
+  <rect class="border" height="18.15084" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="10.042399999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="27.193239999999996">BOSCH</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="28.193239999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="31.714439999999996">#0X</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="28.193239999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="31.714439999999996">Ceiling Level Fixing with anchor bolt.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="28.193239999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="31.714439999999996">Washing Machine</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="28.193239999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="31.714439999999996">BOSCH</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="32.714439999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="36.23564">#01</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="32.714439999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="36.23564">100cm AFF with 6AMPS SOCKET and SWITCH on TOP at SAME level</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="32.714439999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="36.23564">Microwave</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="32.714439999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="36.23564">FABER</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="37.23564"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="40.75684">#01</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="37.23564"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="40.75684">100cm AFF with 6AMPS SOCKET and SWITCH on TOP at SAME level</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="37.23564"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="40.75684">Faber Stove</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="37.23564"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="40.75684">FABER</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="41.75684"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="45.27804">#01</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="41.75684"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="45.27804">100cm AFF with 6AMPS SOCKET and SWITCH on TOP at SAME level</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="41.75684"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="45.27804">Chimney_90cm</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="41.75684"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="45.27804">FABER</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="46.27804"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="49.79924">#0X</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="46.27804"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="49.79924">Ceiling Level Fixing with anchor bolt.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="46.27804"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="49.79924">BLDC_CFAN</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="46.27804"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="49.79924">Havels</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="50.79924"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="54.32044">S1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="50.79924"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="54.32044">UndeCabinet Strip Light</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="50.79924"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="54.32044">LED Strip</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="50.79924"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="54.32044">HAVELS</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="55.32044"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="58.84164">#02A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="55.32044"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="58.84164">180cm AFF with Power socket</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="55.32044"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="58.84164">Refrigerator</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="55.32044"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="58.84164">LG </text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="59.84164"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="63.36283999999999">L-S-V</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="59.84164"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="63.36283999999999">AFF AT CEILING LEVEL, ON FALSE CEILING.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="59.84164"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="63.36283999999999">Footlamp</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="59.84164"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="63.36283999999999">Loya </text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="64.36283999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="67.88403999999998">#07</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="64.36283999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="67.88403999999998">AFF AT CEILING LEVEL, </text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="64.36283999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="67.88403999999998">Pendant</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="64.36283999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="67.88403999999998">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="68.88403999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="72.40523999999998">#08</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="68.88403999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="72.40523999999998">AFF 120 CM </text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="68.88403999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="72.40523999999998">50inch TV</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="68.88403999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="72.40523999999998">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="73.40523999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="76.92643999999997">#08</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="73.40523999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="76.92643999999997">AFF 120 CM </text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="73.40523999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="76.92643999999997">Treadmill</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="73.40523999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="76.92643999999997">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="77.92643999999997"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="81.44763999999996">#08</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="77.92643999999997"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="81.44763999999996">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="77.92643999999997"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="81.44763999999996">50inch TV</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="77.92643999999997"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="81.44763999999996">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="82.44763999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="85.96883999999996">#0X</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="82.44763999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="85.96883999999996">Ceiling Level Fixing with anchor bolt.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="82.44763999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="85.96883999999996">Iron Box</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="82.44763999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="85.96883999999996">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="86.96883999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="90.49003999999995">#L1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="86.96883999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="90.49003999999995">AFF AT CEILING LEVEL, ON FALSE CEILING.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="86.96883999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="90.49003999999995">LED15W</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="86.96883999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="90.49003999999995">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="91.49003999999995"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="95.01123999999994">C1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="91.49003999999995"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="95.01123999999994">Hand the light from Ceiling</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="91.49003999999995"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="95.01123999999994">chandelier</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="91.49003999999995"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="95.01123999999994">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="96.01123999999994"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="99.53243999999994">L-S-V</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="96.01123999999994"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="99.53243999999994">AFF AT CEILING LEVEL, ON FALSE CEILING.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="96.01123999999994"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="99.53243999999994">LED15W</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="96.01123999999994"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="99.53243999999994">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="100.53243999999994"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="104.05363999999993">L-Sp-F</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="100.53243999999994"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="104.05363999999993">AFF AT CEILING LEVEL, ON FALSE CEILING.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="100.53243999999994"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="104.05363999999993">LED15W</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="100.53243999999994"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="104.05363999999993">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="105.05363999999993"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="108.57483999999992">L-St-K</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="105.05363999999993"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="108.57483999999992">Light Strip â Drawing Room â Integrated beneath horizontal shelf planks</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="105.05363999999993"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="108.57483999999992">LED Strip</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="105.05363999999993"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="108.57483999999992">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="109.57483999999992"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="113.09603999999992">L-St-K</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="109.57483999999992"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="113.09603999999992">UndeCabinet Strip Light</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="109.57483999999992"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="113.09603999999992">LED Strip</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="109.57483999999992"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="113.09603999999992">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="114.09603999999992"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="117.61723999999991">L-St-K</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="114.09603999999992"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="117.61723999999991">Strip Light Switch_ 100cm AFF Lvl</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="114.09603999999992"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="117.61723999999991">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="114.09603999999992"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="117.61723999999991">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="118.61723999999991"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="122.1384399999999">L-W-V</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="118.61723999999991"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="122.1384399999999">Light -Wall mount - Verandah - 200cm AFF</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="118.61723999999991"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="122.1384399999999">TRIPOD LAMP BIG</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="118.61723999999991"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="122.1384399999999">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="123.1384399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="126.6596399999999">LS1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="123.1384399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="126.6596399999999">Kitchen Light Switch 120cm AFF</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="123.1384399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="126.6596399999999">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="123.1384399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="126.6596399999999">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="127.6596399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="131.1808399999999">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="127.6596399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="131.1808399999999">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="127.6596399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="131.1808399999999">5AMP_Plug</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="127.6596399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="131.1808399999999">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="132.1808399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="135.7020399999999">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="132.1808399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="135.7020399999999">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="132.1808399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="135.7020399999999">Internet_Cable</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="132.1808399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="135.7020399999999">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="136.7020399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="140.2232399999999">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="136.7020399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="140.2232399999999">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="136.7020399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="140.2232399999999">EV charge</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="136.7020399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="140.2232399999999">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="141.2232399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="144.74443999999988">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="141.2232399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="144.74443999999988">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="141.2232399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="144.74443999999988">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="141.2232399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="144.74443999999988">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="145.74443999999988"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="149.26563999999988">O1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="145.74443999999988"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="149.26563999999988">100cm AFF POWER SOCKET</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="145.74443999999988"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="149.26563999999988">Power</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="145.74443999999988"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="149.26563999999988">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="150.26563999999988"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="153.78683999999987">P-6A-D</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="150.26563999999988"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="153.78683999999987">6A Socket at 70cm AFF, Switch nearby.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="150.26563999999988"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="153.78683999999987">5AMP_Plug</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="150.26563999999988"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="153.78683999999987">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="154.78683999999987"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="158.30803999999986">P-G-B1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="154.78683999999987"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="158.30803999999986">6A socket at 70 cm AFF in Bed 1.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="154.78683999999987"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="158.30803999999986">5AMP_Plug</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="154.78683999999987"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="158.30803999999986">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="159.30803999999986"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="162.82923999999986">P-G-B1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="159.30803999999986"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="162.82923999999986">6A socket at 120 cm AFF in Bed 1.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="159.30803999999986"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="162.82923999999986">5AMP_Plug</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="159.30803999999986"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="162.82923999999986">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="163.82923999999986"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="167.35043999999985">P-G-B2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="163.82923999999986"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="167.35043999999985">6A socket at 70 cm AFF in Bed 2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="163.82923999999986"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="167.35043999999985">5AMP_Plug</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="163.82923999999986"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="167.35043999999985">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="168.35043999999985"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="171.87163999999984">P-G-B3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="168.35043999999985"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="171.87163999999984">6A socket at 70 cm AFF in Bed 3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="168.35043999999985"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="171.87163999999984">5AMP_Plug</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="168.35043999999985"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="171.87163999999984">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="172.87163999999984"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="176.39283999999984">P-G-B3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="172.87163999999984"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="176.39283999999984">Gneral 6A socket at 120 cm AFF in Bed 3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="172.87163999999984"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="176.39283999999984">5AMP_Plug</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="172.87163999999984"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="176.39283999999984">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="177.39283999999984"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="180.91403999999983">P-G-B3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="177.39283999999984"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="180.91403999999983">6A socket at 120 cm AFF in Bed 3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="177.39283999999984"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="180.91403999999983">5AMP_Plug</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="177.39283999999984"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="180.91403999999983">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="181.91403999999983"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="185.43523999999982">P-G-B4</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="181.91403999999983"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="185.43523999999982">General 6A socket at 120 cm AFF in Bed 4</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="181.91403999999983"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="185.43523999999982">5AMP_Plug</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="181.91403999999983"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="185.43523999999982">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="186.43523999999982"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="189.95643999999982">P-G-B4</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="186.43523999999982"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="189.95643999999982">6A socket at 70 cm AFF in Bed 3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="186.43523999999982"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="189.95643999999982">5AMP_Plug</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="186.43523999999982"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="189.95643999999982">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="190.95643999999982"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="194.4776399999998">P-G-BB2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="190.95643999999982"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="194.4776399999998">General 6A socket at 120 cm AFF in Bath bed 2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="190.95643999999982"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="194.4776399999998">5AMP_Plug</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="190.95643999999982"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="194.4776399999998">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="195.4776399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="198.9988399999998">P-G-C</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="195.4776399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="198.9988399999998">6A socket at 120 cm AFF in common wash</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="195.4776399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="198.9988399999998">5AMP_Plug</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="195.4776399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="198.9988399999998">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="199.9988399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="203.5200399999998">P-G-D</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="199.9988399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="203.5200399999998">6A socket at 120 cm AFF in Dining</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="199.9988399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="203.5200399999998">5AMP_Plug</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="199.9988399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="203.5200399999998">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="204.5200399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="208.0412399999998">P-G-G</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="204.5200399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="208.0412399999998">6A socket at 120 cm AFF in Gym</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="204.5200399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="208.0412399999998">5AMP_Plug</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="204.5200399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="208.0412399999998">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="209.0412399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="212.56243999999978">P-G-L</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="209.0412399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="212.56243999999978">6A socket at 70 cm AFF in Bed 3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="209.0412399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="212.56243999999978">5AMP_Plug</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="209.0412399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="212.56243999999978">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="213.56243999999978"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="217.08363999999978">P-G-LI</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="213.56243999999978"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="217.08363999999978">6A General socket at 120 cm AFF in Living</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="213.56243999999978"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="217.08363999999978">5AMP_Plug</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="213.56243999999978"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="217.08363999999978">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="218.08363999999978"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="221.60483999999977">P-G-P</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="218.08363999999978"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="221.60483999999977">6A socket at 120 cm AFF in Passage</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="218.08363999999978"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="221.60483999999977">5AMP_Plug</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="218.08363999999978"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="221.60483999999977">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="222.60483999999977"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="226.12603999999976">P-G-P</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="222.60483999999977"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="226.12603999999976">6A socket at 120 cm AFF in prayer</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="222.60483999999977"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="226.12603999999976">5AMP_Plug</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="222.60483999999977"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="226.12603999999976">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="227.12603999999976"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="230.64723999999975">P-G-U</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="227.12603999999976"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="230.64723999999975">6A socket at 120 cm AFF in Utility</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="227.12603999999976"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="230.64723999999975">5AMP_Plug</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="227.12603999999976"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="230.64723999999975">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="231.64723999999975"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="235.16843999999975">P-P-K</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="231.64723999999975"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="235.16843999999975">100cm AFF POWER SOCKET</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="231.64723999999975"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="235.16843999999975">Power</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="231.64723999999975"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="235.16843999999975">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="236.16843999999975"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="239.68963999999974">S-A-D</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="236.16843999999975"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="239.68963999999974">Switch (OneWay)of Drawing Room Split AC</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="236.16843999999975"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="239.68963999999974">AC Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="236.16843999999975"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="239.68963999999974">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="240.68963999999974"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="244.21083999999973">S-AC-B1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="240.68963999999974"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="244.21083999999973">AC switch at 70 cm AFFL in bed 1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="240.68963999999974"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="244.21083999999973">AC Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="240.68963999999974"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="244.21083999999973">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="245.21083999999973"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="248.73203999999973">S-AC-B1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="245.21083999999973"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="248.73203999999973">6A ac switch at 120cm AFFL in bed1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="245.21083999999973"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="248.73203999999973">AC Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="245.21083999999973"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="248.73203999999973">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="249.73203999999973"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="253.25323999999972">S-AC-B2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="249.73203999999973"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="253.25323999999972">AC switch at 70 cm AFFL in bed 2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="249.73203999999973"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="253.25323999999972">AC Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="249.73203999999973"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="253.25323999999972">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="254.25323999999972"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="257.77443999999974">S-AC-B2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="254.25323999999972"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="257.77443999999974">AC switch at 120 cm AFFL in bed 2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="254.25323999999972"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="257.77443999999974">AC Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="254.25323999999972"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="257.77443999999974">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="258.77443999999974"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="262.29563999999976">S-AC-B3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="258.77443999999974"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="262.29563999999976">AC switch at 70 cm AFFL in bed 3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="258.77443999999974"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="262.29563999999976">AC Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="258.77443999999974"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="262.29563999999976">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="263.29563999999976"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="266.8168399999998">S-AC-B3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="263.29563999999976"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="266.8168399999998">6A AC switch at 120cm AFFL in bed3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="263.29563999999976"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="266.8168399999998">AC Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="263.29563999999976"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="266.8168399999998">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="267.8168399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="271.3380399999998">S-AC-B4</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="267.8168399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="271.3380399999998">AC switch at 70 cm AFFL in bed 4</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="267.8168399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="271.3380399999998">AC Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="267.8168399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="271.3380399999998">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="272.3380399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="275.85923999999983">S-AC-D</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="272.3380399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="275.85923999999983">AC 6 A switch at 120 cm AFFL in Dining </text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="272.3380399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="275.85923999999983">6A 1Way Bell Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="272.3380399999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="275.85923999999983">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="276.85923999999983"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="280.38043999999985">S-AC-G</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="276.85923999999983"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="280.38043999999985">Switch (OneWay)- Air Conditioner_Gym-120cm AFF</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="276.85923999999983"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="280.38043999999985">AC Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="276.85923999999983"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="280.38043999999985">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="281.38043999999985"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="284.9016399999999">S-AC-L</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="281.38043999999985"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="284.9016399999999">AC 6 A switch at 120 cm AFFL in library</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="281.38043999999985"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="284.9016399999999">AC Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="281.38043999999985"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="284.9016399999999">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="285.9016399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="289.4228399999999">S-C-V</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="285.9016399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="289.4228399999999">Calling Bell Switch 120cm AFF</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="285.9016399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="289.4228399999999">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="285.9016399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="289.4228399999999">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="290.4228399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="293.9440399999999">S-E-BB1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="290.4228399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="293.9440399999999">Exhaust 6 A switch at 120 cm AFFL in Bath bed1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="290.4228399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="293.9440399999999">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="290.4228399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="293.9440399999999">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="294.9440399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="298.46523999999994">S-E-BB2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="294.9440399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="298.46523999999994">Exhaust 6 A switch at 120 cm AFFL in Bath Bed2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="294.9440399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="298.46523999999994">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="294.9440399999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="298.46523999999994">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="299.46523999999994"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="302.98643999999996">S-E-BB3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="299.46523999999994"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="302.98643999999996">Exhaust 6 A switch at 120 cm AFFL in Bed3 Bath </text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="299.46523999999994"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="302.98643999999996">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="299.46523999999994"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="302.98643999999996">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="303.98643999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="307.50764">S-E-BB4</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="303.98643999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="307.50764">6A Exhaust switch at 120cm AFFL in bed4 bath</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="303.98643999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="307.50764">6A 1Way Bell Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="303.98643999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="307.50764">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="308.50764"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="312.02884">S-E-DB1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="308.50764"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="312.02884">Exhaust 6 A switch at 120 cm AFFL in Dress Bed1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="308.50764"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="312.02884">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="308.50764"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="312.02884">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="313.02884"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="316.55004">S-F-B1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="313.02884"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="316.55004">6A Fan switch at 120cm AFFL in bed1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="313.02884"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="316.55004">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="313.02884"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="316.55004">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="317.55004"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="321.07124000000005">S-F-B1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="317.55004"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="321.07124000000005">6 A fan switch at 70 cm AFFL in Bed1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="317.55004"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="321.07124000000005">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="317.55004"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="321.07124000000005">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="322.07124000000005"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="325.59244000000007">S-F-B2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="322.07124000000005"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="325.59244000000007">6A fan switch at 70cm AFFL in bed2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="322.07124000000005"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="325.59244000000007">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="322.07124000000005"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="325.59244000000007">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="326.59244000000007"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="330.1136400000001">S-F-B2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="326.59244000000007"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="330.1136400000001">6A Fan switch at 120cm AFFL in bed2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="326.59244000000007"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="330.1136400000001">6A 1Way Bell Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="326.59244000000007"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="330.1136400000001">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="331.1136400000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="334.6348400000001">S-F-B3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="331.1136400000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="334.6348400000001">6A Fan switch at 120cm AFFL in bed3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="331.1136400000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="334.6348400000001">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="331.1136400000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="334.6348400000001">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="335.6348400000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="339.15604000000013">S-F-B4</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="335.6348400000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="339.15604000000013">6A fan switch at 70cm AFFL in bed 4</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="335.6348400000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="339.15604000000013">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="335.6348400000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="339.15604000000013">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="340.15604000000013"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="343.67724000000015">S-F-D</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="340.15604000000013"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="343.67724000000015">6A Fan switch at 120cm AFFL in dining</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="340.15604000000013"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="343.67724000000015">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="340.15604000000013"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="343.67724000000015">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="344.67724000000015"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="348.1984400000002">S-F-G</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="344.67724000000015"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="348.1984400000002">Switch (OneWay)- Ceiling Fan_Gym-120cm AFF</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="344.67724000000015"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="348.1984400000002">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="344.67724000000015"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="348.1984400000002">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="349.1984400000002"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="352.7196400000002">S-F-G</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="349.1984400000002"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="352.7196400000002">6 A fan switch at 70 cm AFFL in Gym</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="349.1984400000002"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="352.7196400000002">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="349.1984400000002"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="352.7196400000002">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="353.7196400000002"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="357.2408400000002">S-F-L</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="353.7196400000002"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="357.2408400000002">General 6 A switch at 120 cm AFFL in library</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="353.7196400000002"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="357.2408400000002">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="353.7196400000002"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="357.2408400000002">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="358.2408400000002"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="361.76204000000024">S-F-LI</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="358.2408400000002"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="361.76204000000024">6A Fan switch at 120cm AFFL in Living</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="358.2408400000002"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="361.76204000000024">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="358.2408400000002"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="361.76204000000024">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="362.76204000000024"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="366.28324000000026">S-G-B1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="362.76204000000024"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="366.28324000000026">General 6 A switch at 70 cm AFFL in Bed1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="362.76204000000024"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="366.28324000000026">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="362.76204000000024"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="366.28324000000026">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="367.28324000000026"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="370.8044400000003">S-G-B1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="367.28324000000026"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="370.8044400000003">6A general switch at 120cm AFFL in bed1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="367.28324000000026"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="370.8044400000003">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="367.28324000000026"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="370.8044400000003">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="371.8044400000003"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="375.3256400000003">S-G-B2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="371.8044400000003"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="375.3256400000003">General 6 A switch at 70 cm AFFL in Bed2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="371.8044400000003"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="375.3256400000003">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="371.8044400000003"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="375.3256400000003">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="376.3256400000003"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="379.8468400000003">S-G-B2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="376.3256400000003"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="379.8468400000003">6A general switch at 70cm AFFL in bed2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="376.3256400000003"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="379.8468400000003">6A 1Way Bell Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="376.3256400000003"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="379.8468400000003">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="380.8468400000003"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="384.36804000000035">S-G-B3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="380.8468400000003"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="384.36804000000035">General 6 A switch at 70 cm AFFL in Bed3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="380.8468400000003"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="384.36804000000035">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="380.8468400000003"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="384.36804000000035">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="385.36804000000035"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="388.88924000000037">S-G-B3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="385.36804000000035"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="388.88924000000037">General 6 A switch at 120 cm AFFL in Bed3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="385.36804000000035"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="388.88924000000037">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="385.36804000000035"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="388.88924000000037">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="389.88924000000037"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="393.4104400000004">S-G-B4</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="389.88924000000037"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="393.4104400000004">General 6A fan switch at 120cm AFFL in bed4</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="389.88924000000037"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="393.4104400000004">6A 1Way Bell Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="389.88924000000037"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="393.4104400000004">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="394.4104400000004"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="397.9316400000004">S-G-B4</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="394.4104400000004"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="397.9316400000004">6A switch at 70cm AFFL in bed3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="394.4104400000004"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="397.9316400000004">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="394.4104400000004"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="397.9316400000004">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="398.9316400000004"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="402.45284000000044">S-G-B4</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="398.9316400000004"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="402.45284000000044">General 6 A switch at 70 cm AFFL in Bed3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="398.9316400000004"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="402.45284000000044">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="398.9316400000004"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="402.45284000000044">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="403.45284000000044"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="406.97404000000046">S-G-BB2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="403.45284000000044"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="406.97404000000046">General 6 A switch at 120 cm AFFL in bath Bed2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="403.45284000000044"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="406.97404000000046">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="403.45284000000044"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="406.97404000000046">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="407.97404000000046"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="411.4952400000005">S-G-C</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="407.97404000000046"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="411.4952400000005">6A general switch at 120cm AFFL in Common wash</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="407.97404000000046"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="411.4952400000005">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="407.97404000000046"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="411.4952400000005">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="412.4952400000005"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="416.0164400000005">S-G-DB1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="412.4952400000005"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="416.0164400000005">General 6A light switch at 120cm AFFL in Dress bed1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="412.4952400000005"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="416.0164400000005">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="412.4952400000005"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="416.0164400000005">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="417.0164400000005"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="420.5376400000005">S-G-L</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="417.0164400000005"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="420.5376400000005">6A general switch at 70cm AFFL in living</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="417.0164400000005"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="420.5376400000005">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="417.0164400000005"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="420.5376400000005">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="421.5376400000005"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="425.05884000000054">S-G-L</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="421.5376400000005"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="425.05884000000054">General 6A light switch at 120 cm AFFL in library</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="421.5376400000005"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="425.05884000000054">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="421.5376400000005"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="425.05884000000054">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="426.05884000000054"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="429.58004000000057">S-G-LI</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="426.05884000000054"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="429.58004000000057">6A general switch at 120cm AFFL in Living</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="426.05884000000054"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="429.58004000000057">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="426.05884000000054"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="429.58004000000057">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="430.58004000000057"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="434.1012400000006">S-G-P</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="430.58004000000057"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="434.1012400000006">6A general switch at 70cm AFFL in Prayer</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="430.58004000000057"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="434.1012400000006">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="430.58004000000057"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="434.1012400000006">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="435.1012400000006"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="438.6224400000006">S-G-U</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="435.1012400000006"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="438.6224400000006">6A general switch at 120cm AFFL in Utility</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="435.1012400000006"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="438.6224400000006">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="435.1012400000006"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="438.6224400000006">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="439.6224400000006"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="443.14364000000063">S-L-B1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="439.6224400000006"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="443.14364000000063">6A light switch at 70cm AFFL in bed1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="439.6224400000006"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="443.14364000000063">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="439.6224400000006"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="443.14364000000063">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="444.14364000000063"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="447.66484000000065">S-L-B1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="444.14364000000063"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="447.66484000000065">6A light switch at 70cm AFFL in bed1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="444.14364000000063"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="447.66484000000065">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="444.14364000000063"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="447.66484000000065">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="448.66484000000065"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="452.1860400000007">S-L-B1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="448.66484000000065"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="452.1860400000007">6A light switch at 120cm AFFL in bed1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="448.66484000000065"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="452.1860400000007">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="448.66484000000065"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="452.1860400000007">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="453.1860400000007"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="456.7072400000007">S-L-B2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="453.1860400000007"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="456.7072400000007">6A light switch at 70cm AFFL in bed2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="453.1860400000007"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="456.7072400000007">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="453.1860400000007"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="456.7072400000007">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="457.7072400000007"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="461.2284400000007">S-L-B2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="457.7072400000007"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="461.2284400000007">6A light switch at 120 cm AFFL in bed2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="457.7072400000007"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="461.2284400000007">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="457.7072400000007"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="461.2284400000007">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="462.2284400000007"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="465.74964000000074">S-L-B3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="462.2284400000007"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="465.74964000000074">6A switch at 120cm AFFL in bed3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="462.2284400000007"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="465.74964000000074">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="462.2284400000007"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="465.74964000000074">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="466.74964000000074"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="470.27084000000076">S-L-B3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="466.74964000000074"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="470.27084000000076">Light 6 A switch at 120 cm AFFL in Bed3 Dress </text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="466.74964000000074"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="470.27084000000076">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="466.74964000000074"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="470.27084000000076">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="471.27084000000076"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="474.7920400000008">S-L-B3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="471.27084000000076"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="474.7920400000008">6A switch at 70cm AFFL in bed3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="471.27084000000076"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="474.7920400000008">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="471.27084000000076"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="474.7920400000008">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="475.7920400000008"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="479.3132400000008">S-L-B4</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="475.7920400000008"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="479.3132400000008">6A switch at 70cm AFFL in bed3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="475.7920400000008"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="479.3132400000008">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="475.7920400000008"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="479.3132400000008">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="480.3132400000008"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="483.8344400000008">S-L-B4</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="480.3132400000008"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="483.8344400000008">Light 6 A switch at 70 cm AFFL in Bed3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="480.3132400000008"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="483.8344400000008">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="480.3132400000008"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="483.8344400000008">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="484.8344400000008"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="488.35564000000085">S-L-B4</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="484.8344400000008"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="488.35564000000085">6A light switch at 120cm AFFL in bed4</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="484.8344400000008"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="488.35564000000085">6A 1Way Bell Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="484.8344400000008"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="488.35564000000085">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="489.35564000000085"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="492.87684000000087">S-L-BB1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="489.35564000000085"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="492.87684000000087">6 A light switch at 120 cm AFFL in bath Bed1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="489.35564000000085"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="492.87684000000087">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="489.35564000000085"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="492.87684000000087">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="493.87684000000087"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="497.3980400000009">S-L-BB2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="493.87684000000087"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="497.3980400000009">6A light switch at 120cm AFFL in Bath bed2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="493.87684000000087"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="497.3980400000009">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="493.87684000000087"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="497.3980400000009">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="498.3980400000009"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="501.9192400000009">S-L-BB3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="498.3980400000009"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="501.9192400000009">Light 6 A switch at 120 cm AFFL in Bed3 Bath </text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="498.3980400000009"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="501.9192400000009">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="498.3980400000009"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="501.9192400000009">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="502.9192400000009"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="506.44044000000093">S-L-BB4</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="502.9192400000009"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="506.44044000000093">6A light switch at 120cm AFFL in bed4 bath</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="502.9192400000009"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="506.44044000000093">6A 1Way Bell Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="502.9192400000009"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="506.44044000000093">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="507.44044000000093"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="510.96164000000095">S-L-C</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="507.44044000000093"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="510.96164000000095">Light 6 A switch at 120 cm AFFL in common toilet</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="507.44044000000093"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="510.96164000000095">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="507.44044000000093"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="510.96164000000095">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="511.96164000000095"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="515.4828400000009">S-L-CT</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="511.96164000000095"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="515.4828400000009">Light 6 A switch at 120 cm AFFL in common toilet</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="511.96164000000095"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="515.4828400000009">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="511.96164000000095"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="515.4828400000009">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="516.4828400000009"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="520.0040400000009">S-L-D</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="516.4828400000009"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="520.0040400000009">6A Light switch at 120cm AFFL in Dining</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="516.4828400000009"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="520.0040400000009">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="516.4828400000009"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="520.0040400000009">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="521.0040400000009"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="524.525240000001">S-L-DB2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="521.0040400000009"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="524.525240000001">6A light switch at 120 cm AFFL in dress bed2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="521.0040400000009"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="524.525240000001">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="521.0040400000009"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="524.525240000001">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="525.525240000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="529.046440000001">S-L-F</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="525.525240000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="529.046440000001">6A Light switch at 70cm AFFL in Foyer</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="525.525240000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="529.046440000001">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="525.525240000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="529.046440000001">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="530.046440000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="533.567640000001">S-L-G</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="530.046440000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="533.567640000001">6A Light switch at 12cm AFFL in gym</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="530.046440000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="533.567640000001">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="530.046440000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="533.567640000001">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="534.567640000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="538.088840000001">S-L-KT</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="534.567640000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="538.088840000001">6A general switch at 120cm AFFL in Kitchenette</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="534.567640000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="538.088840000001">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="534.567640000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="538.088840000001">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="539.088840000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="542.610040000001">S-L-L</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="539.088840000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="542.610040000001">Light 6 A switch at 120 cm AFFL in library</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="539.088840000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="542.610040000001">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="539.088840000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="542.610040000001">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="543.610040000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="547.1312400000011">S-L-L</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="543.610040000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="547.1312400000011">General 6 A switch at 120 cm AFFL in library</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="543.610040000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="547.1312400000011">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="543.610040000001"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="547.1312400000011">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="548.1312400000011"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="551.6524400000011">S-L-LI</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="548.1312400000011"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="551.6524400000011">AC 6 A switch at 120 cm AFFL in Living </text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="548.1312400000011"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="551.6524400000011">6A 1Way Bell Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="548.1312400000011"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="551.6524400000011">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="552.6524400000011"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="556.1736400000011">S-L-P</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="552.6524400000011"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="556.1736400000011">6A light switch at 120cm AFFL in Passage</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="552.6524400000011"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="556.1736400000011">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="552.6524400000011"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="556.1736400000011">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="557.1736400000011"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="560.6948400000011">S-L-P</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="557.1736400000011"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="560.6948400000011">6A Light switch at 120cm AFFL in prayer</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="557.1736400000011"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="560.6948400000011">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="557.1736400000011"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="560.6948400000011">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="561.6948400000011"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="565.2160400000012">S-L-V</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="561.6948400000011"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="565.2160400000012">Verandah Light Switch 120cm AFF</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="561.6948400000011"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="565.2160400000012">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="561.6948400000011"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="565.2160400000012">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="566.2160400000012"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="569.7372400000012">S-P-D</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="566.2160400000012"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="569.7372400000012">Switch (OneWay)- Plug-Drawing-70cm AFF</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="566.2160400000012"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="569.7372400000012">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="566.2160400000012"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="569.7372400000012">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="570.7372400000012"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="574.2584400000012">S-P-D</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="570.7372400000012"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="574.2584400000012">Switch (OneWay)of 6A plug-120cm AFF</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="570.7372400000012"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="574.2584400000012">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="570.7372400000012"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="574.2584400000012">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="575.2584400000012"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="578.7796400000012">S-Sp-F</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="575.2584400000012"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="578.7796400000012">Switch (OneWay)- SpotLight- Foyer-120cm AFF</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="575.2584400000012"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="578.7796400000012">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="575.2584400000012"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="578.7796400000012">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="579.7796400000012"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="583.3008400000012">S-Sp-K</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="579.7796400000012"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="583.3008400000012">Switch (OneWay)- SpotLight- Kitchen-120cm AFF</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="579.7796400000012"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="583.3008400000012">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="579.7796400000012"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="583.3008400000012">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="584.3008400000012"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="587.8220400000013">S-Sp-P</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="584.3008400000012"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="587.8220400000013">Switch (OneWay)- SpotLight- Pantry-120cm AFF</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="584.3008400000012"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="587.8220400000013">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="584.3008400000012"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="587.8220400000013">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="588.8220400000013"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="592.3432400000013">S-Sp-P</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="588.8220400000013"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="592.3432400000013">Switch (OneWay)- SpotLight- Prayer-120cm AFF</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="588.8220400000013"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="592.3432400000013">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="588.8220400000013"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="592.3432400000013">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="593.3432400000013"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="596.8644400000013">S-St-P</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="593.3432400000013"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="596.8644400000013">Switch (OneWay)- StripLights- Prayer-120cm AFF</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="593.3432400000013"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="596.8644400000013">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="593.3432400000013"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="596.8644400000013">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="597.8644400000013"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="601.3856400000013">S-T-CW</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="597.8644400000013"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="601.3856400000013">6A general switch at 70cm AFFL in common wash</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="597.8644400000013"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="601.3856400000013">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="597.8644400000013"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="601.3856400000013">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="602.3856400000013"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="605.9068400000014">S-TV-G</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="602.3856400000013"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="605.9068400000014">Switch (OneWay)of 6A Television plug-120cm AFF</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="602.3856400000013"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="605.9068400000014">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="602.3856400000013"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="605.9068400000014">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="606.9068400000014"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="610.4280400000014">S-W-F</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="606.9068400000014"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="610.4280400000014">Switch (OneWay)- WallLight-Drawing-120cm AFF</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="606.9068400000014"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="610.4280400000014">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="606.9068400000014"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="610.4280400000014">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="611.4280400000014"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="614.9492400000014">S-WL-G</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="611.4280400000014"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="614.9492400000014">Switch (OneWay)of Wall Light in Gym-120cm AFF</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="611.4280400000014"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="614.9492400000014">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="611.4280400000014"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="614.9492400000014">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="615.9492400000014"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="619.4704400000014">S1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="615.9492400000014"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="619.4704400000014">UndeCabinet Strip Light</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="615.9492400000014"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="619.4704400000014">LED Strip</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="615.9492400000014"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="619.4704400000014">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="620.4704400000014"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="623.9916400000014">S1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="620.4704400000014"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="623.9916400000014">Courtyard Strip light</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="620.4704400000014"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="623.9916400000014">LED Strip</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="620.4704400000014"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="623.9916400000014">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="624.9916400000014"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="628.5128400000015">T1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="624.9916400000014"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="628.5128400000015">Strip Light Switch_ 100cm AFF Lvl</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="624.9916400000014"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="628.5128400000015">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="624.9916400000014"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="628.5128400000015">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="629.5128400000015"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="633.0340400000015">T2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="629.5128400000015"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="633.0340400000015">Mixer Grinder Power Switch_ 100cm AFF Lvl</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="629.5128400000015"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="633.0340400000015">6A 1Way Switch</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="629.5128400000015"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="633.0340400000015">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="634.0340400000015"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="637.5552400000015">W1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="634.0340400000015"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="637.5552400000015">Wall dual light</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="634.0340400000015"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="637.5552400000015">Philips twilight</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="634.0340400000015"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="637.5552400000015">N/A</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="16.11884" x="1" y="638.5552400000015"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="642.0764400000015">L-W-V</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="126.30912000000001" x="17.11884" y="638.5552400000015"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="18.11884" y="642.0764400000015">Light -Wall mount - Verandah - 200cm AFF</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="42.029379999999996" x="143.42796" y="638.5552400000015"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="144.42796" y="642.0764400000015">Decor Wall Light</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffffff;" width="22.5806" x="185.45734000000002" y="638.5552400000015"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="186.45734000000002" y="642.0764400000015">PHILIPS</text>
 </svg>
