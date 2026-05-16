@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" id="root" version="1.1" width="420.0mm" height="297.0mm" viewBox="0 0 420.0 297.0" ns1:docname="4 - Dining 2.svg" ns2:version="1.4.2 (f4327f4, 2025-05-13)">
   <defs id="defs3" />
-  <ns1:namedview id="namedview3" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" ns2:document-units="mm" ns2:zoom="0.24346724" ns2:cx="1152.1057" ns2:cy="807.09011" ns2:window-width="1920" ns2:window-height="991" ns2:window-x="-9" ns2:window-y="-9" ns2:window-maximized="1" ns2:current-layer="root" />
+  <ns1:namedview id="namedview3" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" ns2:document-units="mm" ns2:zoom="0.24346724" ns2:cx="1263.0036" ns2:cy="823.51942" ns2:window-width="1920" ns2:window-height="991" ns2:window-x="-9" ns2:window-y="-9" ns2:window-maximized="1" ns2:current-layer="root" />
   <g data-type="titleblock" ns1:insensitive="true" id="g1">
     <image xlink:href="titleblocks/A3.svg" x="0" y="0" width="420.0" height="297.0" id="image1" />
   </g>
-  <g data-type="drawing" data-id="574850" data-drawing="3uzaLog0b3Ov9zJMWSM0PO" id="g3" transform="matrix(0.41111111,0,0,0.41111111,12.666667,-5.4196663)">
-    <image data-type="foreground" xlink:href="..%5Cdrawings%5CDINING%20ROOM%202.svg" x="30.0" y="29.99999900655651" width="900.0" height="554.24" id="image2" />
-    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="30.0" y="589.2372799934435" width="50.222462" height="10" id="image3" />
+  <g data-type="drawing" data-id="576189" data-drawing="3uzaLog0b3Ov9zJMWSM0PO" id="g3" transform="matrix(0.41111111,0,0,0.41111111,12.666667,-5.3333333)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CDINING%20ROOM_2.svg" x="30" y="30" width="900" height="553.82007" id="image2" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="30" y="588.82007" width="50.222462" height="10" id="image3" />
   </g>
 </svg>

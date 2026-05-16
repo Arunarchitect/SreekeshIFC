@@ -1,71 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   id="root"
-   version="1.1"
-   width="420.0mm"
-   height="297.0mm"
-   viewBox="0 0 420.0 297.0"
-   sodipodi:docname="30 - Dining Patio.svg"
-   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs3" />
-  <sodipodi:namedview
-     id="namedview3"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     inkscape:zoom="0.48693448"
-     inkscape:cx="884.10251"
-     inkscape:cy="801.95594"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="root" />
-  <g
-     data-type="titleblock"
-     sodipodi:insensitive="true"
-     id="g1">
-    <image
-       xlink:href="titleblocks/A3.svg"
-       x="0"
-       y="0"
-       width="420.0"
-       height="297.0"
-       id="image1" />
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" id="root" version="1.1" width="420.0mm" height="297.0mm" viewBox="0 0 420.0 297.0" ns1:docname="30 - Dining Patio.svg" ns2:version="1.4.2 (f4327f4, 2025-05-13)">
+  <defs id="defs3" />
+  <ns1:namedview id="namedview3" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" ns2:document-units="mm" ns2:zoom="0.48693448" ns2:cx="1524.8458" ns2:cy="450.77933" ns2:window-width="1920" ns2:window-height="991" ns2:window-x="-9" ns2:window-y="-9" ns2:window-maximized="1" ns2:current-layer="root" />
+  <g data-type="titleblock" ns1:insensitive="true" id="g1">
+    <image xlink:href="titleblocks/A3.svg" x="0" y="0" width="420.0" height="297.0" id="image1" />
   </g>
-  <g
-     data-type="drawing"
-     data-id="576147"
-     data-drawing="2nZjdvAy18auQygf3QACHD"
-     id="g3"
-     transform="matrix(0.41684346,0,0,0.41684346,11.402772,-6.1553024)">
-    <image
-       data-type="foreground"
-       xlink:href="..%5Cdrawings%5CDining%20Patio1.svg"
-       x="30"
-       y="30"
-       width="900"
-       height="554.2373"
-       id="image2" />
-    <image
-       data-type="view-title"
-       xlink:href="assets%5Cview-title.svg"
-       x="30"
-       y="589.2373"
-       width="50.222462"
-       height="10"
-       id="image3" />
+  <g data-type="drawing" data-id="576190" data-drawing="274AXgksL3URVhXfk4EScH" id="g3" transform="matrix(0.41111111,0,0,0.41111111,12.666667,-5.3333333)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CDining%20Patio.svg" x="30" y="30" width="900" height="554.2373" id="image2" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="30" y="589.2373" width="50.222462" height="10" id="image3" />
   </g>
 </svg>
