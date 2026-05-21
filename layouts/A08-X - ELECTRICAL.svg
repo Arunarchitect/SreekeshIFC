@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns3="http://www.w3.org/1999/xlink" id="root" version="1.1" width="1189.0mm" height="841.0mm" viewBox="0 0 1189.0 841.0" ns1:docname="A08-X - ELECTRICAL.svg" ns2:version="1.4.2 (f4327f4, 2025-05-13)">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" id="root" version="1.1" width="1189.0mm" height="841.0mm" viewBox="0 0 1189.0 841.0" ns1:docname="A08-X - ELECTRICAL.svg" ns2:version="1.4.2 (f4327f4, 2025-05-13)">
   <defs id="defs5" />
-  <ns1:namedview id="namedview5" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" ns2:document-units="mm" ns2:zoom="0.12159507" ns2:cx="822.40175" ns2:cy="1542.0033" ns2:window-width="1920" ns2:window-height="991" ns2:window-x="-9" ns2:window-y="-9" ns2:window-maximized="1" ns2:current-layer="root" />
+  <ns1:namedview id="namedview5" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" ns2:document-units="mm" ns2:zoom="0.12159507" ns2:cx="1891.5241" ns2:cy="2907.1902" ns2:window-width="1920" ns2:window-height="991" ns2:window-x="-9" ns2:window-y="-9" ns2:window-maximized="1" ns2:current-layer="root" />
   <g data-type="titleblock" ns1:insensitive="true" id="g1">
-    <image ns3:href="titleblocks/A0.svg" x="0" y="0" width="1189.0" height="841.0" id="image1" />
+    <image xlink:href="titleblocks/A0.svg" x="0" y="0" width="1189.0" height="841.0" id="image1" />
   </g>
-  <g data-type="drawing" data-id="486648" data-drawing="14WRPqzf9EfB2Y1pWU12Gu" id="g3" transform="translate(-24.037492,-235.40892)">
-    <image data-type="foreground" ns3:href="..%5Cdrawings%5CEQUIPMENT-ELECTRICAL.svg" x="246.66499" y="246.66499" width="866.66998" height="866.66998" id="image2" />
-    <image data-type="view-title" ns3:href="assets%5Cview-title.svg" x="266.66705" y="995.2453" width="50.222462" height="10" id="image3" />
+  <g data-type="drawing" data-id="486648" data-drawing="14WRPqzf9EfB2Y1pWU12Gu" id="g3" transform="matrix(0.8896046,0,0,0.8896046,45.559092,-187.23052)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CEQUIPMENT-ELECTRICAL.svg" x="246.66499" y="246.66499" width="866.66998" height="866.66998" id="image2" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="266.66705" y="995.2453" width="50.222462" height="10" id="image3" />
   </g>
-  <g data-id="575635" data-type="schedule" data-document="486655" id="g5" transform="translate(-7.1787091,-1109.5071)">
-    <image data-type="content" ns3:href="..%5CODS%5CElec.svg" x="30" y="1123.335" width="209.03793" height="644.07642" id="image4" />
-    <image data-type="view-title" ns3:href="assets%5Cview-title.svg" x="30" y="1772.4114" width="50.222462" height="10" id="image5" />
+  <g data-id="585154" data-type="schedule" data-document="486655" id="g5" transform="matrix(0.85281635,0,0,0.85281635,-4.4014745,-946.74233)">
+    <image data-type="content" xlink:href="..%5CODS%5CElec.svg" x="30" y="1123.335" width="236.21086" height="811.36084" id="image4" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="30" y="1939.6958" width="50.222462" height="10" id="image5" />
   </g>
 </svg>
