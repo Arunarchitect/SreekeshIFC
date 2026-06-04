@@ -30,7 +30,7 @@ text, tspan {
 .surface { stroke: none; fill: #fff; fill-rule: evenodd; }
 .annotation {
     fill: none;
-    stroke: rgb(124, 124, 123);
+    stroke: rgb(56, 56, 55);
     stroke-opacity: 0.6;
     stroke-linecap: round;
     stroke-linejoin: round;
@@ -49,8 +49,8 @@ text, tspan {
 .IfcFurniture {
     fill: rgb(234, 239, 246);
     fill-opacity: .5;
-    stroke: rgb(234, 239, 246);
-    stroke-opacity: 0.5;
+    stroke: rgb(62, 62, 61);
+    stroke-opacity: 0.2;
     stroke-linecap: round;
     stroke-linejoin: round;
     stroke-width: 0.25;
@@ -105,8 +105,8 @@ text, tspan {
 .IfcWall {
     fill: rgb(165, 201, 242);
     fill-opacity: .9;
-    stroke: rgb(165, 201, 242);
-    stroke-opacity: 0.9;
+    stroke: rgb(63, 144, 237);
+    stroke-opacity: 0.6;
     stroke-linecap: round;
     stroke-linejoin: round;
     stroke-width: 0.25;
@@ -224,6 +224,7 @@ text, tspan {
 .PredefinedType-FILLAREA { fill: white; stroke: black; }
 .PredefinedType-BREAKLINE { fill: none; stroke: black; stroke-width: 0.25; marker-mid: url(#breakline-marker); }
 .PredefinedType-TEXT { fill: black; stroke: none; }
+.PredefinedType-TEXTLEADER {  stroke: rgb(17, 0, 252); stroke-width: 0.15;  }
 path.PredefinedType-TEXTLEADER { marker-end: url(#leader-marker); }
 text.PredefinedType-TEXTLEADER, tspan.PredefinedType-TEXTLEADER { fill: black; stroke: none; }
 text.title, tspan.title { /* 7mm */ font-size: 11.55px; }
