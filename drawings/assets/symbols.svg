@@ -67,6 +67,11 @@
         <path style="fill: white; stroke: black; stroke-width: 0.5;" d="M -2,-2 2,2 M -2,2 2,-2" />
     </g>
     <g id="spot-elevation">
-        <path style="fill: white; stroke: black; stroke-width: 0.5;" d="M 0,-2 0,2 M -2,0 2,0" />
-    </g>
+    <line x1="0" y1="-3.75" x2="0" y2="3.75" style="stroke: black; stroke-width: 0.25;" />
+    <line x1="-3.75" y1="0" x2="3.75" y2="0" style="stroke: black; stroke-width: 0.25;" />
+    <circle r="1.875" fill="white" stroke="black" style="stroke-width: 0.5;" />
+    <path d="M 0 0 L -1.875 0 A 1.875 1.875 0 0 1 0 -1.875 Z" fill="black" />
+    <path d="M 0 0 L 1.875 0 A 1.875 1.875 0 0 1 0 1.875 Z" fill="black" />
+    <text x="3" y="0" class="regular" text-anchor="start" dominant-baseline="auto" data-type="text-template"></text>
+</g>
 </svg>
