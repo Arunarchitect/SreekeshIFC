@@ -1,0 +1,4 @@
+Index,Identification,Name,Quantity,Unit,Contract,Value,Material Rate,Labor Rate,Subtotal,Property,Query,RateSchedule,RateID
+1,1,Building Estimate,,,,,,,,,,,
+2,1.1,Cabinet Works,,,,,,,,,,,
+3,1.1.1,Cabinet Carpentry Labour charge (estimated per front face),,m2,,,,,,NetSideArea,"IfcSystemFurnitureElement, type=""18mm frontface""",rates,CAR
